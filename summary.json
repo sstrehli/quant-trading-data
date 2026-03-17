@@ -1,0 +1,14 @@
+{
+  "status": "success",
+  "summary": {
+    "active_positions": 8,
+    "active_signals": 5,
+    "last_update": "2026-03-17T10:07:42.512475",
+    "today_pnl": 0.0,
+    "total_capital": 10000.0,
+    "total_pnl": 6.89,
+    "total_trades": 5,
+    "win_rate": 50.0
+  },
+  "timestamp": "2026-03-17T10:07:42.512532"
+}

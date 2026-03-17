@@ -1,0 +1,267 @@
+{
+  "count": 28,
+  "sessions": [
+    {
+      "avg_pnl_per_trade": 0.09,
+      "capital_trades": 100.0,
+      "date": "03/03",
+      "pnl": 0.17,
+      "session": "market_hours",
+      "trades_exited": 2,
+      "win_percent": 40
+    },
+    {
+      "avg_pnl_per_trade": 0.23,
+      "capital_trades": 100.0,
+      "date": "03/03",
+      "pnl": 0.45,
+      "session": "after_hours",
+      "trades_exited": 2,
+      "win_percent": 63
+    },
+    {
+      "avg_pnl_per_trade": -0.65,
+      "capital_trades": 100.0,
+      "date": "03/04",
+      "pnl": -1.29,
+      "session": "market_hours",
+      "trades_exited": 2,
+      "win_percent": 89
+    },
+    {
+      "avg_pnl_per_trade": 3.2,
+      "capital_trades": 50.0,
+      "date": "03/04",
+      "pnl": 3.2,
+      "session": "after_hours",
+      "trades_exited": 1,
+      "win_percent": 30
+    },
+    {
+      "avg_pnl_per_trade": 18.39,
+      "capital_trades": 50.0,
+      "date": "03/05",
+      "pnl": 18.39,
+      "session": "market_hours",
+      "trades_exited": 1,
+      "win_percent": 48
+    },
+    {
+      "avg_pnl_per_trade": 0.11,
+      "capital_trades": 50.0,
+      "date": "03/05",
+      "pnl": 0.11,
+      "session": "after_hours",
+      "trades_exited": 1,
+      "win_percent": 52
+    },
+    {
+      "avg_pnl_per_trade": 1.08,
+      "capital_trades": 200.0,
+      "date": "03/06",
+      "pnl": 4.33,
+      "session": "market_hours",
+      "trades_exited": 4,
+      "win_percent": 72
+    },
+    {
+      "avg_pnl_per_trade": 0,
+      "capital_trades": 0.0,
+      "date": "03/06",
+      "pnl": 13.81,
+      "session": "after_hours",
+      "trades_exited": 0,
+      "win_percent": 73
+    },
+    {
+      "avg_pnl_per_trade": 0.73,
+      "capital_trades": 200.0,
+      "date": "03/07",
+      "pnl": 2.92,
+      "session": "market_hours",
+      "trades_exited": 4,
+      "win_percent": 54
+    },
+    {
+      "avg_pnl_per_trade": -0.88,
+      "capital_trades": 150.0,
+      "date": "03/07",
+      "pnl": -2.65,
+      "session": "WE_after_hours",
+      "trades_exited": 3,
+      "win_percent": 51
+    },
+    {
+      "avg_pnl_per_trade": 0.94,
+      "capital_trades": 250.0,
+      "date": "03/08",
+      "pnl": 4.69,
+      "session": "market_hours",
+      "trades_exited": 5,
+      "win_percent": 58
+    },
+    {
+      "avg_pnl_per_trade": -0.94,
+      "capital_trades": 150.0,
+      "date": "03/08",
+      "pnl": -2.83,
+      "session": "WE_after_hours",
+      "trades_exited": 3,
+      "win_percent": 46
+    },
+    {
+      "avg_pnl_per_trade": 4.79,
+      "capital_trades": 200.0,
+      "date": "03/09",
+      "pnl": 19.14,
+      "session": "market_hours",
+      "trades_exited": 4,
+      "win_percent": 83
+    },
+    {
+      "avg_pnl_per_trade": 3.88,
+      "capital_trades": 150.0,
+      "date": "03/09",
+      "pnl": 11.65,
+      "session": "after_hours",
+      "trades_exited": 3,
+      "win_percent": 69
+    },
+    {
+      "avg_pnl_per_trade": 1.76,
+      "capital_trades": 100.0,
+      "date": "03/10",
+      "pnl": 3.53,
+      "session": "market_hours",
+      "trades_exited": 2,
+      "win_percent": 82
+    },
+    {
+      "avg_pnl_per_trade": -1.55,
+      "capital_trades": 150.0,
+      "date": "03/10",
+      "pnl": -4.66,
+      "session": "after_hours",
+      "trades_exited": 3,
+      "win_percent": 46
+    },
+    {
+      "avg_pnl_per_trade": 0.17,
+      "capital_trades": 50.0,
+      "date": "03/11",
+      "pnl": 0.17,
+      "session": "market_hours",
+      "trades_exited": 1,
+      "win_percent": 60
+    },
+    {
+      "avg_pnl_per_trade": 6.41,
+      "capital_trades": 100.0,
+      "date": "03/11",
+      "pnl": 12.81,
+      "session": "after_hours",
+      "trades_exited": 2,
+      "win_percent": 56
+    },
+    {
+      "avg_pnl_per_trade": 0.98,
+      "capital_trades": 250.0,
+      "date": "03/12",
+      "pnl": 4.92,
+      "session": "market_hours",
+      "trades_exited": 5,
+      "win_percent": 78
+    },
+    {
+      "avg_pnl_per_trade": 12.19,
+      "capital_trades": 50.0,
+      "date": "03/12",
+      "pnl": 12.19,
+      "session": "after_hours",
+      "trades_exited": 1,
+      "win_percent": 56
+    },
+    {
+      "avg_pnl_per_trade": 9.52,
+      "capital_trades": 50.0,
+      "date": "03/13",
+      "pnl": 9.52,
+      "session": "market_hours",
+      "trades_exited": 1,
+      "win_percent": 61
+    },
+    {
+      "avg_pnl_per_trade": -0.69,
+      "capital_trades": 100.0,
+      "date": "03/13",
+      "pnl": -1.39,
+      "session": "after_hours",
+      "trades_exited": 2,
+      "win_percent": 65
+    },
+    {
+      "avg_pnl_per_trade": -0.2,
+      "capital_trades": 200.0,
+      "date": "03/14",
+      "pnl": -0.79,
+      "session": "market_hours",
+      "trades_exited": 4,
+      "win_percent": 79
+    },
+    {
+      "avg_pnl_per_trade": 2.28,
+      "capital_trades": 150.0,
+      "date": "03/14",
+      "pnl": 6.85,
+      "session": "WE_after_hours",
+      "trades_exited": 3,
+      "win_percent": 40
+    },
+    {
+      "avg_pnl_per_trade": 3.05,
+      "capital_trades": 200.0,
+      "date": "03/15",
+      "pnl": 12.2,
+      "session": "market_hours",
+      "trades_exited": 4,
+      "win_percent": 68
+    },
+    {
+      "avg_pnl_per_trade": 10.92,
+      "capital_trades": 50.0,
+      "date": "03/15",
+      "pnl": 10.92,
+      "session": "WE_after_hours",
+      "trades_exited": 1,
+      "win_percent": 33
+    },
+    {
+      "avg_pnl_per_trade": -6.34,
+      "capital_trades": 50.0,
+      "date": "03/16",
+      "pnl": -6.34,
+      "session": "market_hours",
+      "trades_exited": 1,
+      "win_percent": 69
+    },
+    {
+      "avg_pnl_per_trade": 0,
+      "capital_trades": 0.0,
+      "date": "03/16",
+      "pnl": 8.28,
+      "session": "after_hours",
+      "trades_exited": 0,
+      "win_percent": 54
+    }
+  ],
+  "status": "success",
+  "summary": {
+    "overall_win_rate": 75.0,
+    "total_capital_traded": 3250.0,
+    "total_days": 14,
+    "total_pnl": 140.3,
+    "total_sessions": 28,
+    "total_trades_exited": 65
+  },
+  "timestamp": "2026-03-17T10:07:41.587120"
+}

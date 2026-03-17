@@ -1,0 +1,23 @@
+{
+  "status": "healthy",
+  "service": "quant-trading-data-github-pages",
+  "version": "1.0.0",
+  "endpoints": [
+    "trades.json",
+    "signals.json",
+    "sessions.json",
+    "positions.json",
+    "health.json"
+  ],
+  "last_updated": "2026-03-17T10:07:42.648902",
+  "update_frequency": "5 minutes",
+  "data_source": "Enhanced V2 API via ngrok",
+  "features": [
+    "enhanced_closed_positions",
+    "enhanced_session_performance",
+    "enhanced_signals",
+    "model_attribution",
+    "reason_codes",
+    "session_tracking"
+  ]
+}
