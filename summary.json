@@ -1,14 +1,11 @@
 {
+  "total_pnl": -320.59,
+  "win_rate": 0.7,
+  "active_positions": 9,
+  "today_pnl": 195.2,
+  "avg_hold_time": "14h",
+  "best_model": "perp_momentum",
+  "worst_model": "obi_volume",
   "status": "success",
-  "summary": {
-    "active_positions": 8,
-    "active_signals": 5,
-    "last_update": "2026-03-17T10:07:42.512475",
-    "today_pnl": 0.0,
-    "total_capital": 10000.0,
-    "total_pnl": 6.89,
-    "total_trades": 5,
-    "win_rate": 50.0
-  },
-  "timestamp": "2026-03-17T10:07:42.512532"
+  "timestamp": "2026-03-18T09:20:57.022865"
 }

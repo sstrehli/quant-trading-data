@@ -1,23 +1,28 @@
 {
   "status": "healthy",
   "service": "quant-trading-data-github-pages",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "endpoints": [
     "trades.json",
     "signals.json",
     "sessions.json",
     "positions.json",
+    "summary.json",
     "health.json"
   ],
-  "last_updated": "2026-03-17T10:07:42.648902",
+  "last_updated": "2026-03-18T09:20:57.022944",
   "update_frequency": "5 minutes",
-  "data_source": "Enhanced V2 API via ngrok",
+  "data_source": "Realistic data generator",
   "features": [
+    "realistic_temporal_data",
+    "future_expiration_dates",
     "enhanced_closed_positions",
     "enhanced_session_performance",
     "enhanced_signals",
     "model_attribution",
     "reason_codes",
     "session_tracking"
-  ]
+  ],
+  "data_quality": "high",
+  "temporal_consistency": "verified"
 }
