@@ -7,17 +7,18 @@
       "asset": "SOL",
       "bet": "200",
       "cts": 218,
-      "current": 0.4891,
+      "current": 0.5403,
       "entry": 0.4582,
       "entry_time": "2026-03-18T16:14:27.530849",
       "exp": "2026-03-19 11:06",
       "fv": 0.4557,
       "hold": "18.8h",
       "mkt": "Polymarket",
-      "pnl": 6.74,
+      "pnl": 17.9,
       "size": 100.0,
       "strategy": "black_scholes_binary",
-      "sym": ">"
+      "sym": ">",
+      "market_id": "sim_market_39_SOL"
     },
     {
       "#": 2,
@@ -25,19 +26,21 @@
       "asset": "ETH",
       "bet": "200",
       "cts": 221,
-      "current": 0.4645,
+      "current": 0.4447,
       "entry": 0.4518,
       "entry_time": "2026-03-18T16:02:27.530849",
       "exp": "2026-03-21 11:06",
       "fv": 0.4482,
       "hold": "66.8h",
       "mkt": "Polymarket",
-      "pnl": 2.81,
+      "pnl": -1.57,
       "size": 100.0,
       "strategy": "perp_momentum",
-      "sym": ">"
+      "sym": ">",
+      "market_id": "sim_market_9_ETH"
     }
   ],
   "status": "success",
-  "timestamp": "2026-03-18T16:20:27.533565"
+  "timestamp": "2026-03-18T16:32:01.108196",
+  "data_source": "simulated"
 }
