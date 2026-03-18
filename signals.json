@@ -1,22 +1,10 @@
 {
-  "count": 1,
-  "signals": [
-    {
-      "signal_id": "SIG-001",
-      "date": "03/18",
-      "time": "16:31",
-      "sym": "BTC",
-      "bet": "150000.0",
-      "exp": "2026-04-01 04:00",
-      "current_price": 0.0025,
-      "fair_value": 0.0025,
-      "strength": 0.87,
-      "model": "black_scholes_binary",
-      "market_id": "1473040",
-      "volume_24h": 966234.315665001
-    }
-  ],
+  "count": 0,
+  "signals": [],
   "status": "success",
-  "timestamp": "2026-03-18T16:38:11.912093",
-  "data_source": "real_polymarket"
+  "timestamp": "2026-03-18T18:04:37.566200",
+  "data_source": "simulated",
+  "filtering_strategy": "volume_based_top_100",
+  "crypto_markets_found": 0,
+  "signals_per_market": 5
 }
