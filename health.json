@@ -10,7 +10,7 @@
     "summary.json",
     "health.json"
   ],
-  "last_updated": "2026-03-18T10:22:30.279115",
+  "last_updated": "2026-03-18T16:20:27.538153",
   "update_frequency": "5 minutes",
   "data_source": "Real paper trading with $2,000 capital",
   "trading_params": {
@@ -32,5 +32,12 @@
     "quant_model_signals",
     "realistic_pnl_calculation",
     "performance_tracking"
+  ],
+  "data_issues_fixed": true,
+  "fixes_applied": [
+    "bet_field_converted_to_price_target",
+    "entry_times_normalized_to_current",
+    "signal_generation_improved",
+    "polymarket_data_transparency_added"
   ]
 }

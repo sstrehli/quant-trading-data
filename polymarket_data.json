@@ -1,0 +1,1074 @@
+{
+  "status": "success",
+  "source": "simulated_polymarket_data",
+  "disclaimer": "This is simulated data for development. Real Polymarket API integration pending.",
+  "timestamp": "2026-03-18T16:20:27.535662",
+  "market_count": 15,
+  "markets": [
+    {
+      "market_id": "PM_SOL_6D_0",
+      "asset": "SOL",
+      "question": "Will SOL close above $200 on 2026-03-24?",
+      "yes_price": 0.64,
+      "no_price": 0.36,
+      "volume_24h_usd": 22695,
+      "liquidity_usd": 44158.55856141813,
+      "expiration_timestamp": "2026-03-24T16:20:27.535662",
+      "created_timestamp": "2026-02-19T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "SOL-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.6336,
+            "size": 180
+          },
+          {
+            "price": 0.6272,
+            "size": 511
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.6464,
+            "size": 622
+          },
+          {
+            "price": 0.6528,
+            "size": 527
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "NO",
+          "price": 0.6444,
+          "size_usd": 1841
+        },
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "NO",
+          "price": 0.6426,
+          "size_usd": 3874
+        },
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "NO",
+          "price": 0.6446,
+          "size_usd": 2362
+        },
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "YES",
+          "price": 0.6391,
+          "size_usd": 3929
+        },
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "NO",
+          "price": 0.6419,
+          "size_usd": 2506
+        }
+      ]
+    },
+    {
+      "market_id": "PM_BTC_7D_1",
+      "asset": "BTC",
+      "question": "Will BTC close above $2400 on 2026-03-25?",
+      "yes_price": 0.6176,
+      "no_price": 0.3824,
+      "volume_24h_usd": 20297,
+      "liquidity_usd": 32872.15177949059,
+      "expiration_timestamp": "2026-03-25T16:20:27.535662",
+      "created_timestamp": "2026-03-03T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "BTC-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.6114,
+            "size": 404
+          },
+          {
+            "price": 0.6052,
+            "size": 131
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.6238,
+            "size": 574
+          },
+          {
+            "price": 0.63,
+            "size": 744
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "YES",
+          "price": 0.6164,
+          "size_usd": 4801
+        },
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "YES",
+          "price": 0.6209,
+          "size_usd": 2355
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.6125,
+          "size_usd": 815
+        },
+        {
+          "timestamp": "2026-03-18T16:19:27.535662",
+          "side": "NO",
+          "price": 0.6206,
+          "size_usd": 2339
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.6142,
+          "size_usd": 2884
+        }
+      ]
+    },
+    {
+      "market_id": "PM_BTC_2D_2",
+      "asset": "BTC",
+      "question": "Will BTC close above $200 on 2026-03-20?",
+      "yes_price": 0.5931,
+      "no_price": 0.4069,
+      "volume_24h_usd": 71079,
+      "liquidity_usd": 135820.95414145399,
+      "expiration_timestamp": "2026-03-20T16:20:27.535662",
+      "created_timestamp": "2026-03-08T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "BTC-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5872,
+            "size": 642
+          },
+          {
+            "price": 0.5812,
+            "size": 397
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.599,
+            "size": 515
+          },
+          {
+            "price": 0.605,
+            "size": 813
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5947,
+          "size_usd": 2292
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "NO",
+          "price": 0.5891,
+          "size_usd": 640
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "YES",
+          "price": 0.5929,
+          "size_usd": 3162
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "YES",
+          "price": 0.59,
+          "size_usd": 101
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5933,
+          "size_usd": 3229
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_2D_3",
+      "asset": "ETH",
+      "question": "Will ETH close above $58000 on 2026-03-20?",
+      "yes_price": 0.5583,
+      "no_price": 0.4417,
+      "volume_24h_usd": 89187,
+      "liquidity_usd": 84330.65463289956,
+      "expiration_timestamp": "2026-03-20T16:20:27.535662",
+      "created_timestamp": "2026-03-06T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5527,
+            "size": 239
+          },
+          {
+            "price": 0.5471,
+            "size": 818
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5639,
+            "size": 833
+          },
+          {
+            "price": 0.5695,
+            "size": 619
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "YES",
+          "price": 0.5603,
+          "size_usd": 1480
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "YES",
+          "price": 0.5607,
+          "size_usd": 2368
+        },
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "YES",
+          "price": 0.5616,
+          "size_usd": 3844
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "NO",
+          "price": 0.5563,
+          "size_usd": 2733
+        },
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "YES",
+          "price": 0.5579,
+          "size_usd": 1352
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_5D_4",
+      "asset": "ETH",
+      "question": "Will ETH close above $58000 on 2026-03-23?",
+      "yes_price": 0.5382,
+      "no_price": 0.4618,
+      "volume_24h_usd": 20937,
+      "liquidity_usd": 24497.137981406802,
+      "expiration_timestamp": "2026-03-23T16:20:27.535662",
+      "created_timestamp": "2026-02-24T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5328,
+            "size": 535
+          },
+          {
+            "price": 0.5274,
+            "size": 194
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5436,
+            "size": 627
+          },
+          {
+            "price": 0.549,
+            "size": 877
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "NO",
+          "price": 0.533,
+          "size_usd": 1410
+        },
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "YES",
+          "price": 0.5365,
+          "size_usd": 443
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "YES",
+          "price": 0.5391,
+          "size_usd": 2681
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "NO",
+          "price": 0.5432,
+          "size_usd": 4770
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "YES",
+          "price": 0.5346,
+          "size_usd": 2620
+        }
+      ]
+    },
+    {
+      "market_id": "PM_SOL_3D_5",
+      "asset": "SOL",
+      "question": "Will SOL close above $58000 on 2026-03-21?",
+      "yes_price": 0.5765,
+      "no_price": 0.4235,
+      "volume_24h_usd": 16032,
+      "liquidity_usd": 10496.141904469861,
+      "expiration_timestamp": "2026-03-21T16:20:27.535662",
+      "created_timestamp": "2026-02-16T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "SOL-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5707,
+            "size": 957
+          },
+          {
+            "price": 0.565,
+            "size": 442
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5823,
+            "size": 750
+          },
+          {
+            "price": 0.588,
+            "size": 412
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "NO",
+          "price": 0.572,
+          "size_usd": 1216
+        },
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "NO",
+          "price": 0.5751,
+          "size_usd": 4242
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.5754,
+          "size_usd": 3227
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "NO",
+          "price": 0.5732,
+          "size_usd": 1111
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5749,
+          "size_usd": 3452
+        }
+      ]
+    },
+    {
+      "market_id": "PM_SOL_1D_6",
+      "asset": "SOL",
+      "question": "Will SOL close above $58000 on 2026-03-19?",
+      "yes_price": 0.6168,
+      "no_price": 0.3832,
+      "volume_24h_usd": 52361,
+      "liquidity_usd": 88764.15293660037,
+      "expiration_timestamp": "2026-03-19T16:20:27.535662",
+      "created_timestamp": "2026-03-14T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "SOL-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.6106,
+            "size": 845
+          },
+          {
+            "price": 0.6045,
+            "size": 340
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.623,
+            "size": 497
+          },
+          {
+            "price": 0.6291,
+            "size": 203
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "NO",
+          "price": 0.6139,
+          "size_usd": 4562
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "NO",
+          "price": 0.6195,
+          "size_usd": 4541
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.6211,
+          "size_usd": 2664
+        },
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "NO",
+          "price": 0.6131,
+          "size_usd": 3713
+        },
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "NO",
+          "price": 0.6148,
+          "size_usd": 3006
+        }
+      ]
+    },
+    {
+      "market_id": "PM_SOL_1D_7",
+      "asset": "SOL",
+      "question": "Will SOL close above $2400 on 2026-03-19?",
+      "yes_price": 0.5093,
+      "no_price": 0.4907,
+      "volume_24h_usd": 67685,
+      "liquidity_usd": 46606.68668886243,
+      "expiration_timestamp": "2026-03-19T16:20:27.535662",
+      "created_timestamp": "2026-03-04T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "SOL-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5042,
+            "size": 679
+          },
+          {
+            "price": 0.4991,
+            "size": 992
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5144,
+            "size": 577
+          },
+          {
+            "price": 0.5195,
+            "size": 457
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "NO",
+          "price": 0.513,
+          "size_usd": 279
+        },
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "YES",
+          "price": 0.5042,
+          "size_usd": 4140
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.5118,
+          "size_usd": 1903
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "YES",
+          "price": 0.5121,
+          "size_usd": 528
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "NO",
+          "price": 0.5077,
+          "size_usd": 4238
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_6D_8",
+      "asset": "ETH",
+      "question": "Will ETH close above $58000 on 2026-03-24?",
+      "yes_price": 0.6369,
+      "no_price": 0.3631,
+      "volume_24h_usd": 75925,
+      "liquidity_usd": 96248.10326119256,
+      "expiration_timestamp": "2026-03-24T16:20:27.535662",
+      "created_timestamp": "2026-03-03T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.6305,
+            "size": 608
+          },
+          {
+            "price": 0.6242,
+            "size": 636
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.6433,
+            "size": 853
+          },
+          {
+            "price": 0.6496,
+            "size": 582
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "YES",
+          "price": 0.6311,
+          "size_usd": 4466
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "NO",
+          "price": 0.6409,
+          "size_usd": 3978
+        },
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "NO",
+          "price": 0.641,
+          "size_usd": 1534
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "YES",
+          "price": 0.6337,
+          "size_usd": 1923
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "NO",
+          "price": 0.6337,
+          "size_usd": 3589
+        }
+      ]
+    },
+    {
+      "market_id": "PM_BTC_1D_9",
+      "asset": "BTC",
+      "question": "Will BTC close above $58000 on 2026-03-19?",
+      "yes_price": 0.5186,
+      "no_price": 0.4814,
+      "volume_24h_usd": 90387,
+      "liquidity_usd": 57304.1967264571,
+      "expiration_timestamp": "2026-03-19T16:20:27.535662",
+      "created_timestamp": "2026-03-14T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "BTC-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5134,
+            "size": 292
+          },
+          {
+            "price": 0.5082,
+            "size": 835
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5238,
+            "size": 935
+          },
+          {
+            "price": 0.529,
+            "size": 224
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "YES",
+          "price": 0.5223,
+          "size_usd": 3022
+        },
+        {
+          "timestamp": "2026-03-18T16:19:27.535662",
+          "side": "YES",
+          "price": 0.5207,
+          "size_usd": 2902
+        },
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "YES",
+          "price": 0.5223,
+          "size_usd": 1296
+        },
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "NO",
+          "price": 0.515,
+          "size_usd": 4254
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "YES",
+          "price": 0.5227,
+          "size_usd": 390
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_3D_10",
+      "asset": "ETH",
+      "question": "Will ETH close above $200 on 2026-03-21?",
+      "yes_price": 0.6015,
+      "no_price": 0.3985,
+      "volume_24h_usd": 80907,
+      "liquidity_usd": 139837.4662119841,
+      "expiration_timestamp": "2026-03-21T16:20:27.535662",
+      "created_timestamp": "2026-03-09T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5955,
+            "size": 817
+          },
+          {
+            "price": 0.5895,
+            "size": 593
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.6075,
+            "size": 249
+          },
+          {
+            "price": 0.6135,
+            "size": 667
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "YES",
+          "price": 0.607,
+          "size_usd": 721
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "YES",
+          "price": 0.606,
+          "size_usd": 1962
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "NO",
+          "price": 0.5986,
+          "size_usd": 2292
+        },
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "NO",
+          "price": 0.5967,
+          "size_usd": 916
+        },
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "YES",
+          "price": 0.602,
+          "size_usd": 2061
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_4D_11",
+      "asset": "ETH",
+      "question": "Will ETH close above $2400 on 2026-03-22?",
+      "yes_price": 0.5207,
+      "no_price": 0.4793,
+      "volume_24h_usd": 70509,
+      "liquidity_usd": 63545.42323584159,
+      "expiration_timestamp": "2026-03-22T16:20:27.535662",
+      "created_timestamp": "2026-02-23T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5155,
+            "size": 289
+          },
+          {
+            "price": 0.5103,
+            "size": 350
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.5259,
+            "size": 659
+          },
+          {
+            "price": 0.5311,
+            "size": 822
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5164,
+          "size_usd": 1816
+        },
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "YES",
+          "price": 0.5175,
+          "size_usd": 3928
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5172,
+          "size_usd": 1829
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "NO",
+          "price": 0.5225,
+          "size_usd": 1462
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5167,
+          "size_usd": 2727
+        }
+      ]
+    },
+    {
+      "market_id": "PM_SOL_4D_12",
+      "asset": "SOL",
+      "question": "Will SOL close above $200 on 2026-03-22?",
+      "yes_price": 0.5723,
+      "no_price": 0.4277,
+      "volume_24h_usd": 36699,
+      "liquidity_usd": 71644.05221757056,
+      "expiration_timestamp": "2026-03-22T16:20:27.535662",
+      "created_timestamp": "2026-03-17T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "SOL-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5666,
+            "size": 914
+          },
+          {
+            "price": 0.5609,
+            "size": 365
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.578,
+            "size": 766
+          },
+          {
+            "price": 0.5837,
+            "size": 112
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "NO",
+          "price": 0.5725,
+          "size_usd": 3771
+        },
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "NO",
+          "price": 0.5712,
+          "size_usd": 525
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "NO",
+          "price": 0.5709,
+          "size_usd": 1217
+        },
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "NO",
+          "price": 0.5743,
+          "size_usd": 1987
+        },
+        {
+          "timestamp": "2026-03-18T16:14:27.535662",
+          "side": "YES",
+          "price": 0.568,
+          "size_usd": 805
+        }
+      ]
+    },
+    {
+      "market_id": "PM_BTC_2D_13",
+      "asset": "BTC",
+      "question": "Will BTC close above $2400 on 2026-03-20?",
+      "yes_price": 0.6109,
+      "no_price": 0.3891,
+      "volume_24h_usd": 63078,
+      "liquidity_usd": 33203.735543906514,
+      "expiration_timestamp": "2026-03-20T16:20:27.535662",
+      "created_timestamp": "2026-02-21T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "BTC-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.6048,
+            "size": 116
+          },
+          {
+            "price": 0.5987,
+            "size": 362
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.617,
+            "size": 342
+          },
+          {
+            "price": 0.6231,
+            "size": 291
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:15:27.535662",
+          "side": "NO",
+          "price": 0.6126,
+          "size_usd": 3398
+        },
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "NO",
+          "price": 0.6062,
+          "size_usd": 650
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "NO",
+          "price": 0.6129,
+          "size_usd": 3463
+        },
+        {
+          "timestamp": "2026-03-18T16:12:27.535662",
+          "side": "YES",
+          "price": 0.6104,
+          "size_usd": 3045
+        },
+        {
+          "timestamp": "2026-03-18T16:11:27.535662",
+          "side": "NO",
+          "price": 0.6103,
+          "size_usd": 1502
+        }
+      ]
+    },
+    {
+      "market_id": "PM_ETH_3D_14",
+      "asset": "ETH",
+      "question": "Will ETH close above $200 on 2026-03-21?",
+      "yes_price": 0.5218,
+      "no_price": 0.4782,
+      "volume_24h_usd": 44495,
+      "liquidity_usd": 75537.38503234503,
+      "expiration_timestamp": "2026-03-21T16:20:27.535662",
+      "created_timestamp": "2026-03-01T16:20:27.535662",
+      "category": "crypto",
+      "subcategory": "price-prediction",
+      "ticker": "ETH-DAILY",
+      "status": "active",
+      "last_updated": "2026-03-18T16:20:27.535662",
+      "order_book": {
+        "yes_bids": [
+          {
+            "price": 0.5166,
+            "size": 794
+          },
+          {
+            "price": 0.5114,
+            "size": 315
+          }
+        ],
+        "yes_asks": [
+          {
+            "price": 0.527,
+            "size": 558
+          },
+          {
+            "price": 0.5322,
+            "size": 187
+          }
+        ]
+      },
+      "recent_trades": [
+        {
+          "timestamp": "2026-03-18T16:18:27.535662",
+          "side": "NO",
+          "price": 0.5258,
+          "size_usd": 1942
+        },
+        {
+          "timestamp": "2026-03-18T16:16:27.535662",
+          "side": "YES",
+          "price": 0.5188,
+          "size_usd": 2548
+        },
+        {
+          "timestamp": "2026-03-18T16:17:27.535662",
+          "side": "YES",
+          "price": 0.5232,
+          "size_usd": 2594
+        },
+        {
+          "timestamp": "2026-03-18T16:10:27.535662",
+          "side": "YES",
+          "price": 0.5185,
+          "size_usd": 4626
+        },
+        {
+          "timestamp": "2026-03-18T16:13:27.535662",
+          "side": "YES",
+          "price": 0.5201,
+          "size_usd": 1605
+        }
+      ]
+    }
+  ],
+  "interpretation_notes": {
+    "yes_price": "Probability (0-1) that the market will resolve YES",
+    "no_price": "Probability (0-1) that the market will resolve NO (should equal 1 - yes_price)",
+    "volume_24h_usd": "Trading volume in USD over last 24 hours",
+    "liquidity_usd": "Estimated liquidity available in order book",
+    "order_book": "Simulated limit order book showing bids and asks",
+    "recent_trades": "Simulated recent trade history"
+  },
+  "model_usage": {
+    "black_scholes_binary": "Uses yes_price as current probability, calculates fair value based on time to expiration and volatility",
+    "ema_crossover": "Analyzes price trends from recent_trades history",
+    "obi_volume": "Looks for volume spikes in recent_trades and order_book imbalances",
+    "perp_momentum": "Compares yes_price to spot price for arbitrage opportunities",
+    "whale_tracking": "Analyzes large trades in recent_trades for whale activity"
+  }
+}
