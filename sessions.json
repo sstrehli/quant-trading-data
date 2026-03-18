@@ -4,228 +4,228 @@
     {
       "date": "03/05",
       "session": "market",
-      "trades_exited": 7,
-      "pnl": 182.66,
-      "capital": 350.0,
-      "win_pct": 0.5
+      "trades_exited": 2,
+      "pnl": -33.91,
+      "capital": 200.0,
+      "win_pct": 0.4
     },
     {
       "date": "03/05",
       "session": "after hours",
-      "trades_exited": 5,
-      "pnl": 89.14,
-      "capital": 250.0,
-      "win_pct": 0.65
+      "trades_exited": 0,
+      "pnl": -20.52,
+      "capital": 0.0,
+      "win_pct": 0.0
     },
     {
       "date": "03/06",
       "session": "market",
-      "trades_exited": 8,
-      "pnl": -57.44,
-      "capital": 400.0,
-      "win_pct": 0.49
-    },
-    {
-      "date": "03/06",
-      "session": "after hours",
-      "trades_exited": 2,
-      "pnl": 17.82,
-      "capital": 100.0,
-      "win_pct": 0.58
-    },
-    {
-      "date": "03/07",
-      "session": "market",
-      "trades_exited": 7,
-      "pnl": 4.18,
-      "capital": 350.0,
-      "win_pct": 0.65
-    },
-    {
-      "date": "03/07",
-      "session": "after hours",
-      "trades_exited": 3,
-      "pnl": 46.88,
-      "capital": 150.0,
-      "win_pct": 0.34
-    },
-    {
-      "date": "03/08",
-      "session": "market",
-      "trades_exited": 8,
-      "pnl": 116.93,
-      "capital": 400.0,
-      "win_pct": 0.48
-    },
-    {
-      "date": "03/08",
-      "session": "after hours",
-      "trades_exited": 2,
-      "pnl": 83.25,
-      "capital": 100.0,
-      "win_pct": 0.5
-    },
-    {
-      "date": "03/09",
-      "session": "market",
-      "trades_exited": 2,
-      "pnl": -54.23,
-      "capital": 100.0,
-      "win_pct": 0.71
-    },
-    {
-      "date": "03/09",
-      "session": "after hours",
-      "trades_exited": 3,
-      "pnl": 40.45,
-      "capital": 150.0,
-      "win_pct": 0.58
-    },
-    {
-      "date": "03/10",
-      "session": "market",
-      "trades_exited": 6,
-      "pnl": 187.27,
-      "capital": 300.0,
-      "win_pct": 0.45
-    },
-    {
-      "date": "03/10",
-      "session": "after hours",
-      "trades_exited": 3,
-      "pnl": -38.22,
-      "capital": 150.0,
-      "win_pct": 0.62
-    },
-    {
-      "date": "03/11",
-      "session": "market",
-      "trades_exited": 8,
-      "pnl": -57.49,
-      "capital": 400.0,
-      "win_pct": 0.51
-    },
-    {
-      "date": "03/11",
-      "session": "after hours",
-      "trades_exited": 2,
-      "pnl": -40.92,
-      "capital": 100.0,
-      "win_pct": 0.48
-    },
-    {
-      "date": "03/12",
-      "session": "market",
-      "trades_exited": 4,
-      "pnl": -45.14,
-      "capital": 200.0,
-      "win_pct": 0.78
-    },
-    {
-      "date": "03/12",
-      "session": "after hours",
-      "trades_exited": 3,
-      "pnl": 51.42,
-      "capital": 150.0,
-      "win_pct": 0.35
-    },
-    {
-      "date": "03/13",
-      "session": "market",
-      "trades_exited": 6,
-      "pnl": 159.83,
-      "capital": 300.0,
-      "win_pct": 0.42
-    },
-    {
-      "date": "03/13",
-      "session": "after hours",
-      "trades_exited": 5,
-      "pnl": -11.67,
-      "capital": 250.0,
-      "win_pct": 0.54
-    },
-    {
-      "date": "03/14",
-      "session": "market",
-      "trades_exited": 5,
-      "pnl": 0.23,
-      "capital": 250.0,
-      "win_pct": 0.47
-    },
-    {
-      "date": "03/14",
-      "session": "after hours",
       "trades_exited": 1,
-      "pnl": -24.36,
-      "capital": 50.0,
-      "win_pct": 0.61
+      "pnl": -37.87,
+      "capital": 100.0,
+      "win_pct": 0.7
     },
     {
-      "date": "03/15",
+      "date": "03/06",
+      "session": "after hours",
+      "trades_exited": 2,
+      "pnl": 22.33,
+      "capital": 200.0,
+      "win_pct": 0.15
+    },
+    {
+      "date": "03/07",
       "session": "market",
-      "trades_exited": 6,
-      "pnl": -48.14,
-      "capital": 300.0,
-      "win_pct": 0.71
+      "trades_exited": 0,
+      "pnl": 36.77,
+      "capital": 0.0,
+      "win_pct": 0.0
     },
     {
-      "date": "03/15",
+      "date": "03/07",
       "session": "after hours",
       "trades_exited": 3,
-      "pnl": 27.33,
-      "capital": 150.0,
-      "win_pct": 0.61
+      "pnl": 30.38,
+      "capital": 300.0,
+      "win_pct": 0.33
     },
     {
-      "date": "03/16",
+      "date": "03/08",
+      "session": "market",
+      "trades_exited": 5,
+      "pnl": 51.18,
+      "capital": 500.0,
+      "win_pct": 0.32
+    },
+    {
+      "date": "03/08",
+      "session": "after hours",
+      "trades_exited": 3,
+      "pnl": -18.54,
+      "capital": 300.0,
+      "win_pct": 0.96
+    },
+    {
+      "date": "03/09",
+      "session": "market",
+      "trades_exited": 2,
+      "pnl": -13.21,
+      "capital": 200.0,
+      "win_pct": 0.06
+    },
+    {
+      "date": "03/09",
+      "session": "after hours",
+      "trades_exited": 0,
+      "pnl": 54.31,
+      "capital": 0.0,
+      "win_pct": 0.0
+    },
+    {
+      "date": "03/10",
+      "session": "market",
+      "trades_exited": 5,
+      "pnl": 75.78,
+      "capital": 500.0,
+      "win_pct": 0.85
+    },
+    {
+      "date": "03/10",
+      "session": "after hours",
+      "trades_exited": 3,
+      "pnl": -1.03,
+      "capital": 300.0,
+      "win_pct": 0.75
+    },
+    {
+      "date": "03/11",
       "session": "market",
       "trades_exited": 4,
-      "pnl": 164.18,
-      "capital": 200.0,
-      "win_pct": 0.6
+      "pnl": 71.1,
+      "capital": 400.0,
+      "win_pct": 0.46
     },
     {
-      "date": "03/16",
+      "date": "03/11",
       "session": "after hours",
-      "trades_exited": 5,
-      "pnl": 16.66,
-      "capital": 250.0,
+      "trades_exited": 2,
+      "pnl": -13.52,
+      "capital": 200.0,
+      "win_pct": 0.82
+    },
+    {
+      "date": "03/12",
+      "session": "market",
+      "trades_exited": 1,
+      "pnl": 62.92,
+      "capital": 100.0,
+      "win_pct": 0.72
+    },
+    {
+      "date": "03/12",
+      "session": "after hours",
+      "trades_exited": 0,
+      "pnl": 56.75,
+      "capital": 0.0,
+      "win_pct": 0.0
+    },
+    {
+      "date": "03/13",
+      "session": "market",
+      "trades_exited": 0,
+      "pnl": 67.52,
+      "capital": 0.0,
+      "win_pct": 0.0
+    },
+    {
+      "date": "03/13",
+      "session": "after hours",
+      "trades_exited": 2,
+      "pnl": 7.08,
+      "capital": 200.0,
+      "win_pct": 0.17
+    },
+    {
+      "date": "03/14",
+      "session": "market",
+      "trades_exited": 3,
+      "pnl": 10.33,
+      "capital": 300.0,
       "win_pct": 0.52
     },
     {
-      "date": "03/17",
-      "session": "market",
-      "trades_exited": 4,
-      "pnl": -46.92,
-      "capital": 200.0,
-      "win_pct": 0.56
-    },
-    {
-      "date": "03/17",
+      "date": "03/14",
       "session": "after hours",
-      "trades_exited": 4,
-      "pnl": 66.43,
-      "capital": 200.0,
-      "win_pct": 0.69
+      "trades_exited": 3,
+      "pnl": 19.22,
+      "capital": 300.0,
+      "win_pct": 0.6
     },
     {
-      "date": "03/18",
+      "date": "03/15",
       "session": "market",
-      "trades_exited": 8,
-      "pnl": 100.58,
+      "trades_exited": 4,
+      "pnl": 88.86,
       "capital": 400.0,
+      "win_pct": 0.33
+    },
+    {
+      "date": "03/15",
+      "session": "after hours",
+      "trades_exited": 3,
+      "pnl": 17.53,
+      "capital": 300.0,
       "win_pct": 0.41
     },
     {
+      "date": "03/16",
+      "session": "market",
+      "trades_exited": 5,
+      "pnl": 89.81,
+      "capital": 500.0,
+      "win_pct": 0.33
+    },
+    {
+      "date": "03/16",
+      "session": "after hours",
+      "trades_exited": 2,
+      "pnl": 41.12,
+      "capital": 200.0,
+      "win_pct": 0.45
+    },
+    {
+      "date": "03/17",
+      "session": "market",
+      "trades_exited": 2,
+      "pnl": 82.22,
+      "capital": 200.0,
+      "win_pct": 0.91
+    },
+    {
+      "date": "03/17",
+      "session": "after hours",
+      "trades_exited": 2,
+      "pnl": 54.94,
+      "capital": 200.0,
+      "win_pct": 0.15
+    },
+    {
+      "date": "03/18",
+      "session": "market",
+      "trades_exited": 0,
+      "pnl": -41.73,
+      "capital": 0.0,
+      "win_pct": 0.0
+    },
+    {
       "date": "03/18",
       "session": "after hours",
-      "trades_exited": 1,
-      "pnl": 37.57,
-      "capital": 50.0,
-      "win_pct": 0.55
+      "trades_exited": 0,
+      "pnl": -11.35,
+      "capital": 0.0,
+      "win_pct": 0.0
     }
   ],
   "status": "success",
-  "timestamp": "2026-03-18T09:20:57.022554"
+  "timestamp": "2026-03-18T10:22:30.279115"
 }

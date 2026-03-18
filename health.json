@@ -1,7 +1,7 @@
 {
   "status": "healthy",
-  "service": "quant-trading-data-github-pages",
-  "version": "2.0.0",
+  "service": "real-paper-trading",
+  "version": "1.0.0",
   "endpoints": [
     "trades.json",
     "signals.json",
@@ -10,19 +10,27 @@
     "summary.json",
     "health.json"
   ],
-  "last_updated": "2026-03-18T09:20:57.022944",
+  "last_updated": "2026-03-18T10:22:30.279115",
   "update_frequency": "5 minutes",
-  "data_source": "Realistic data generator",
+  "data_source": "Real paper trading with $2,000 capital",
+  "trading_params": {
+    "initial_capital": 2000.0,
+    "base_trade_size": 100.0,
+    "max_positions": 20,
+    "position_sizing": "capital / 20",
+    "strategies": [
+      "black_scholes_binary",
+      "ema_crossover",
+      "obi_volume",
+      "perp_momentum",
+      "whale_tracking"
+    ]
+  },
   "features": [
-    "realistic_temporal_data",
-    "future_expiration_dates",
-    "enhanced_closed_positions",
-    "enhanced_session_performance",
-    "enhanced_signals",
-    "model_attribution",
-    "reason_codes",
-    "session_tracking"
-  ],
-  "data_quality": "high",
-  "temporal_consistency": "verified"
+    "real_paper_trading",
+    "dynamic_position_sizing",
+    "quant_model_signals",
+    "realistic_pnl_calculation",
+    "performance_tracking"
+  ]
 }

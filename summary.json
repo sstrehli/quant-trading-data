@@ -1,11 +1,13 @@
 {
-  "total_pnl": -320.59,
-  "win_rate": 0.7,
-  "active_positions": 9,
-  "today_pnl": 195.2,
-  "avg_hold_time": "14h",
-  "best_model": "perp_momentum",
-  "worst_model": "obi_volume",
-  "status": "success",
-  "timestamp": "2026-03-18T09:20:57.022865"
+  "total_pnl": 2.26,
+  "win_rate": 1.0,
+  "active_positions": 3,
+  "today_pnl": 103.95,
+  "avg_hold_time": "41h",
+  "best_model": "ema_crossover",
+  "worst_model": "whale_tracking",
+  "initial_capital": 2000.0,
+  "current_capital": 2002.26,
+  "status": "active",
+  "timestamp": "2026-03-18T10:22:30.279115"
 }
