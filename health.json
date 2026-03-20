@@ -1,43 +1,20 @@
 {
   "status": "healthy",
-  "service": "real-paper-trading",
-  "version": "1.0.0",
-  "endpoints": [
-    "trades.json",
-    "signals.json",
-    "sessions.json",
-    "positions.json",
-    "summary.json",
-    "health.json"
-  ],
-  "last_updated": "2026-03-18T16:20:27.538153",
-  "update_frequency": "5 minutes",
-  "data_source": "Real paper trading with $2,000 capital",
-  "trading_params": {
-    "initial_capital": 2000.0,
-    "base_trade_size": 100.0,
-    "max_positions": 20,
-    "position_sizing": "capital / 20",
-    "strategies": [
-      "black_scholes_binary",
-      "ema_crossover",
-      "obi_volume",
-      "perp_momentum",
-      "whale_tracking"
-    ]
+  "timestamp": "2026-03-20T11:28:17.404315",
+  "systems": {
+    "paper_trading": "running",
+    "data_pipeline": "active",
+    "github_pages": "deployed",
+    "update_system": "running",
+    "file_formats": "both_json_and_js"
   },
-  "features": [
-    "real_paper_trading",
-    "dynamic_position_sizing",
-    "quant_model_signals",
-    "realistic_pnl_calculation",
-    "performance_tracking"
-  ],
-  "data_issues_fixed": true,
-  "fixes_applied": [
-    "bet_field_converted_to_price_target",
-    "entry_times_normalized_to_current",
-    "signal_generation_improved",
-    "polymarket_data_transparency_added"
-  ]
+  "metrics": {
+    "positions_count": 273,
+    "update_interval": "5 minutes",
+    "last_update": "2026-03-20T11:28:17.404317",
+    "uptime": "100%",
+    "models_active": 6,
+    "data_source": "paper_trading_system"
+  },
+  "builder_note": "Birdie Quest dashboard reads .json files"
 }

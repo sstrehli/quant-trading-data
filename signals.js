@@ -7,8 +7,9 @@ var signalsData = {
       "signal_type": "BUY_YES",
       "confidence": 0.7,
       "model": "black_scholes_binary",
-      "timestamp": "2026-03-20T10:06:06.392435",
-      "strength": "STRONG"
+      "timestamp": "2026-03-20T11:28:17.404177",
+      "strength": "STRONG",
+      "fair_value": 0.5
     },
     {
       "signal_id": "signal_0002",
@@ -16,8 +17,9 @@ var signalsData = {
       "signal_type": "BUY_YES",
       "confidence": 0.75,
       "model": "ema_crossover",
-      "timestamp": "2026-03-20T10:06:06.392441",
-      "strength": "MEDIUM"
+      "timestamp": "2026-03-20T11:28:17.404180",
+      "strength": "MEDIUM",
+      "fair_value": 0.55
     },
     {
       "signal_id": "signal_0003",
@@ -25,8 +27,9 @@ var signalsData = {
       "signal_type": "BUY_YES",
       "confidence": 0.7999999999999999,
       "model": "market_structure_v1",
-      "timestamp": "2026-03-20T10:06:06.392444",
-      "strength": "WEAK"
+      "timestamp": "2026-03-20T11:28:17.404182",
+      "strength": "WEAK",
+      "fair_value": 0.6
     },
     {
       "signal_id": "signal_0004",
@@ -34,8 +37,9 @@ var signalsData = {
       "signal_type": "BUY_YES",
       "confidence": 0.85,
       "model": "black_scholes_binary",
-      "timestamp": "2026-03-20T10:06:06.392451",
-      "strength": "STRONG"
+      "timestamp": "2026-03-20T11:28:17.404183",
+      "strength": "STRONG",
+      "fair_value": 0.65
     },
     {
       "signal_id": "signal_0005",
@@ -43,10 +47,11 @@ var signalsData = {
       "signal_type": "BUY_YES",
       "confidence": 0.8999999999999999,
       "model": "ema_crossover",
-      "timestamp": "2026-03-20T10:06:06.392453",
-      "strength": "MEDIUM"
+      "timestamp": "2026-03-20T11:28:17.404185",
+      "strength": "MEDIUM",
+      "fair_value": 0.7
     }
   ],
   "status": "success",
-  "timestamp": "2026-03-20T10:06:06.392424"
+  "timestamp": "2026-03-20T11:28:17.404171"
 };

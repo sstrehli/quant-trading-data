@@ -12,12 +12,13 @@ var tradesData = {
       "pnl_percent": 5.0,
       "action": "BUY_YES",
       "strategy": "black_scholes_binary",
-      "entry_time": "2026-03-20T10:06:06.392109",
-      "exit_time": "2026-03-20T10:06:06.392116",
+      "entry_time": "2026-03-20T11:28:17.403887",
+      "exit_time": "2026-03-20T11:28:17.403895",
       "hold_time": "0h",
       "size": 100,
       "market_id": "market_1",
-      "polymarket_url": "https://polymarket.com/market/market_1"
+      "polymarket_url": "https://polymarket.com/market/market_1",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0002",
@@ -30,12 +31,13 @@ var tradesData = {
       "pnl_percent": 6.0,
       "action": "BUY_YES",
       "strategy": "ema_crossover",
-      "entry_time": "2026-03-20T08:06:06.392122",
-      "exit_time": "2026-03-20T10:06:06.392126",
+      "entry_time": "2026-03-20T09:28:17.403899",
+      "exit_time": "2026-03-20T11:28:17.403901",
       "hold_time": "2h",
       "size": 100,
       "market_id": "market_2",
-      "polymarket_url": "https://polymarket.com/market/market_2"
+      "polymarket_url": "https://polymarket.com/market/market_2",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0003",
@@ -48,12 +50,13 @@ var tradesData = {
       "pnl_percent": 7.0,
       "action": "BUY_YES",
       "strategy": "market_structure_v1",
-      "entry_time": "2026-03-20T06:06:06.392129",
-      "exit_time": "2026-03-20T10:06:06.392132",
+      "entry_time": "2026-03-20T07:28:17.403904",
+      "exit_time": "2026-03-20T11:28:17.403906",
       "hold_time": "4h",
       "size": 100,
       "market_id": "market_3",
-      "polymarket_url": "https://polymarket.com/market/market_3"
+      "polymarket_url": "https://polymarket.com/market/market_3",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0004",
@@ -66,12 +69,13 @@ var tradesData = {
       "pnl_percent": 8.0,
       "action": "BUY_YES",
       "strategy": "black_scholes_binary",
-      "entry_time": "2026-03-20T04:06:06.392134",
-      "exit_time": "2026-03-20T10:06:06.392136",
+      "entry_time": "2026-03-20T05:28:17.403907",
+      "exit_time": "2026-03-20T11:28:17.403909",
       "hold_time": "6h",
       "size": 100,
       "market_id": "market_4",
-      "polymarket_url": "https://polymarket.com/market/market_4"
+      "polymarket_url": "https://polymarket.com/market/market_4",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0005",
@@ -84,12 +88,13 @@ var tradesData = {
       "pnl_percent": 9.0,
       "action": "BUY_YES",
       "strategy": "ema_crossover",
-      "entry_time": "2026-03-20T02:06:06.392139",
-      "exit_time": "2026-03-20T10:06:06.392141",
+      "entry_time": "2026-03-20T03:28:17.403910",
+      "exit_time": "2026-03-20T11:28:17.403912",
       "hold_time": "8h",
       "size": 100,
       "market_id": "market_5",
-      "polymarket_url": "https://polymarket.com/market/market_5"
+      "polymarket_url": "https://polymarket.com/market/market_5",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0006",
@@ -102,12 +107,13 @@ var tradesData = {
       "pnl_percent": 10.0,
       "action": "BUY_YES",
       "strategy": "market_structure_v1",
-      "entry_time": "2026-03-20T00:06:06.392143",
-      "exit_time": "2026-03-20T10:06:06.392145",
+      "entry_time": "2026-03-20T01:28:17.403913",
+      "exit_time": "2026-03-20T11:28:17.403915",
       "hold_time": "10h",
       "size": 100,
       "market_id": "market_6",
-      "polymarket_url": "https://polymarket.com/market/market_6"
+      "polymarket_url": "https://polymarket.com/market/market_6",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0007",
@@ -120,12 +126,13 @@ var tradesData = {
       "pnl_percent": 11.0,
       "action": "BUY_YES",
       "strategy": "black_scholes_binary",
-      "entry_time": "2026-03-19T22:06:06.392148",
-      "exit_time": "2026-03-20T10:06:06.392149",
+      "entry_time": "2026-03-19T23:28:17.403916",
+      "exit_time": "2026-03-20T11:28:17.403917",
       "hold_time": "12h",
       "size": 100,
       "market_id": "market_7",
-      "polymarket_url": "https://polymarket.com/market/market_7"
+      "polymarket_url": "https://polymarket.com/market/market_7",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0008",
@@ -138,12 +145,13 @@ var tradesData = {
       "pnl_percent": 12.0,
       "action": "BUY_YES",
       "strategy": "ema_crossover",
-      "entry_time": "2026-03-19T20:06:06.392152",
-      "exit_time": "2026-03-20T10:06:06.392160",
+      "entry_time": "2026-03-19T21:28:17.403919",
+      "exit_time": "2026-03-20T11:28:17.403920",
       "hold_time": "14h",
       "size": 100,
       "market_id": "market_8",
-      "polymarket_url": "https://polymarket.com/market/market_8"
+      "polymarket_url": "https://polymarket.com/market/market_8",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0009",
@@ -156,12 +164,13 @@ var tradesData = {
       "pnl_percent": 13.0,
       "action": "BUY_YES",
       "strategy": "market_structure_v1",
-      "entry_time": "2026-03-19T18:06:06.392162",
-      "exit_time": "2026-03-20T10:06:06.392164",
+      "entry_time": "2026-03-19T19:28:17.403922",
+      "exit_time": "2026-03-20T11:28:17.403923",
       "hold_time": "16h",
       "size": 100,
       "market_id": "market_9",
-      "polymarket_url": "https://polymarket.com/market/market_9"
+      "polymarket_url": "https://polymarket.com/market/market_9",
+      "reason": "paper_trading_sample"
     },
     {
       "trade_id": "trade_0010",
@@ -174,15 +183,15 @@ var tradesData = {
       "pnl_percent": 14.0,
       "action": "BUY_YES",
       "strategy": "black_scholes_binary",
-      "entry_time": "2026-03-19T16:06:06.392166",
-      "exit_time": "2026-03-20T10:06:06.392168",
+      "entry_time": "2026-03-19T17:28:17.403924",
+      "exit_time": "2026-03-20T11:28:17.403926",
       "hold_time": "18h",
       "size": 100,
       "market_id": "market_10",
-      "polymarket_url": "https://polymarket.com/market/market_10"
+      "polymarket_url": "https://polymarket.com/market/market_10",
+      "reason": "paper_trading_sample"
     }
   ],
   "status": "success",
-  "timestamp": "2026-03-20T10:06:06.392092",
-  "data_source": "paper_trading_system"
+  "timestamp": "2026-03-20T11:28:17.403877"
 };

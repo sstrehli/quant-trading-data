@@ -1,16 +1,20 @@
 var healthData = {
   "status": "healthy",
-  "timestamp": "2026-03-20T10:06:06.392597",
+  "timestamp": "2026-03-20T11:28:17.404315",
   "systems": {
     "paper_trading": "running",
     "data_pipeline": "active",
     "github_pages": "deployed",
-    "update_system": "running"
+    "update_system": "running",
+    "file_formats": "both_json_and_js"
   },
   "metrics": {
     "positions_count": 273,
     "update_interval": "5 minutes",
-    "last_update": "2026-03-20T10:06:06.392600",
-    "uptime": "100%"
-  }
+    "last_update": "2026-03-20T11:28:17.404317",
+    "uptime": "100%",
+    "models_active": 6,
+    "data_source": "paper_trading_system"
+  },
+  "builder_note": "Birdie Quest dashboard reads .json files"
 };

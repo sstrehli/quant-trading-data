@@ -20,7 +20,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568784",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568784"
+      "polymarket_url": "https://polymarket.com/market/1568784",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 2,
@@ -41,7 +42,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568784",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568784"
+      "polymarket_url": "https://polymarket.com/market/1568784",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 3,
@@ -62,7 +64,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568786",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568786"
+      "polymarket_url": "https://polymarket.com/market/1568786",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 4,
@@ -83,7 +86,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568786",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568786"
+      "polymarket_url": "https://polymarket.com/market/1568786",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 5,
@@ -104,7 +108,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568786",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568786"
+      "polymarket_url": "https://polymarket.com/market/1568786",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 6,
@@ -125,7 +130,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568788",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568788"
+      "polymarket_url": "https://polymarket.com/market/1568788",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 7,
@@ -146,7 +152,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568788",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568788"
+      "polymarket_url": "https://polymarket.com/market/1568788",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 8,
@@ -167,7 +174,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568788",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1568788"
+      "polymarket_url": "https://polymarket.com/market/1568788",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 9,
@@ -188,7 +196,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568790",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568790"
+      "polymarket_url": "https://polymarket.com/market/1568790",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 10,
@@ -209,7 +218,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568790",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568790"
+      "polymarket_url": "https://polymarket.com/market/1568790",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 11,
@@ -230,7 +240,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568792",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568792"
+      "polymarket_url": "https://polymarket.com/market/1568792",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 12,
@@ -251,7 +262,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568792",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568792"
+      "polymarket_url": "https://polymarket.com/market/1568792",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 13,
@@ -272,7 +284,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568792",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568792"
+      "polymarket_url": "https://polymarket.com/market/1568792",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 14,
@@ -293,7 +306,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568792",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1568792"
+      "polymarket_url": "https://polymarket.com/market/1568792",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 15,
@@ -314,7 +328,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568794",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568794"
+      "polymarket_url": "https://polymarket.com/market/1568794",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 16,
@@ -335,7 +350,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568794",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568794"
+      "polymarket_url": "https://polymarket.com/market/1568794",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 17,
@@ -356,7 +372,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568796",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568796"
+      "polymarket_url": "https://polymarket.com/market/1568796",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 18,
@@ -377,7 +394,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568796",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568796"
+      "polymarket_url": "https://polymarket.com/market/1568796",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 19,
@@ -398,7 +416,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568796",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568796"
+      "polymarket_url": "https://polymarket.com/market/1568796",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 20,
@@ -419,7 +438,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568797",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568797"
+      "polymarket_url": "https://polymarket.com/market/1568797",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 21,
@@ -440,7 +460,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568797",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568797"
+      "polymarket_url": "https://polymarket.com/market/1568797",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 22,
@@ -461,7 +482,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568797",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568797"
+      "polymarket_url": "https://polymarket.com/market/1568797",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 23,
@@ -482,7 +504,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568798",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568798"
+      "polymarket_url": "https://polymarket.com/market/1568798",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 24,
@@ -503,7 +526,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568798",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568798"
+      "polymarket_url": "https://polymarket.com/market/1568798",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 25,
@@ -524,7 +548,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568798",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568798"
+      "polymarket_url": "https://polymarket.com/market/1568798",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 26,
@@ -545,7 +570,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568799",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568799"
+      "polymarket_url": "https://polymarket.com/market/1568799",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 27,
@@ -566,7 +592,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568799",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568799"
+      "polymarket_url": "https://polymarket.com/market/1568799",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 28,
@@ -587,7 +614,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568799",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568799"
+      "polymarket_url": "https://polymarket.com/market/1568799",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 29,
@@ -608,7 +636,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568800",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568800"
+      "polymarket_url": "https://polymarket.com/market/1568800",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 30,
@@ -629,7 +658,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568800",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1568800"
+      "polymarket_url": "https://polymarket.com/market/1568800",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 31,
@@ -650,7 +680,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568800",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568800"
+      "polymarket_url": "https://polymarket.com/market/1568800",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 32,
@@ -671,7 +702,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473040",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473040"
+      "polymarket_url": "https://polymarket.com/market/1473040",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 33,
@@ -692,7 +724,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473040",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473040"
+      "polymarket_url": "https://polymarket.com/market/1473040",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 34,
@@ -713,7 +746,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473040",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473040"
+      "polymarket_url": "https://polymarket.com/market/1473040",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 35,
@@ -734,7 +768,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473040",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473040"
+      "polymarket_url": "https://polymarket.com/market/1473040",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 36,
@@ -755,7 +790,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473043",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473043"
+      "polymarket_url": "https://polymarket.com/market/1473043",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 37,
@@ -776,7 +812,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473043",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473043"
+      "polymarket_url": "https://polymarket.com/market/1473043",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 38,
@@ -797,7 +834,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473043",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473043"
+      "polymarket_url": "https://polymarket.com/market/1473043",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 39,
@@ -818,7 +856,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473048",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473048"
+      "polymarket_url": "https://polymarket.com/market/1473048",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 40,
@@ -839,7 +878,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473048",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473048"
+      "polymarket_url": "https://polymarket.com/market/1473048",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 41,
@@ -860,7 +900,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473048",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473048"
+      "polymarket_url": "https://polymarket.com/market/1473048",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 42,
@@ -881,7 +922,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473053",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473053"
+      "polymarket_url": "https://polymarket.com/market/1473053",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 43,
@@ -902,7 +944,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473053",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473053"
+      "polymarket_url": "https://polymarket.com/market/1473053",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 44,
@@ -923,7 +966,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473057",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473057"
+      "polymarket_url": "https://polymarket.com/market/1473057",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 45,
@@ -944,7 +988,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473057",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473057"
+      "polymarket_url": "https://polymarket.com/market/1473057",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 46,
@@ -965,7 +1010,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473057",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473057"
+      "polymarket_url": "https://polymarket.com/market/1473057",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 47,
@@ -986,7 +1032,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473057",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473057"
+      "polymarket_url": "https://polymarket.com/market/1473057",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 48,
@@ -1007,7 +1054,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473057",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473057"
+      "polymarket_url": "https://polymarket.com/market/1473057",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 49,
@@ -1028,7 +1076,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473060",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473060"
+      "polymarket_url": "https://polymarket.com/market/1473060",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 50,
@@ -1049,7 +1098,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473060",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473060"
+      "polymarket_url": "https://polymarket.com/market/1473060",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 51,
@@ -1070,7 +1120,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473060",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473060"
+      "polymarket_url": "https://polymarket.com/market/1473060",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 52,
@@ -1091,7 +1142,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473063",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473063"
+      "polymarket_url": "https://polymarket.com/market/1473063",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 53,
@@ -1112,7 +1164,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473063",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473063"
+      "polymarket_url": "https://polymarket.com/market/1473063",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 54,
@@ -1133,7 +1186,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473063",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473063"
+      "polymarket_url": "https://polymarket.com/market/1473063",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 55,
@@ -1154,7 +1208,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473063",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473063"
+      "polymarket_url": "https://polymarket.com/market/1473063",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 56,
@@ -1175,7 +1230,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473066",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473066"
+      "polymarket_url": "https://polymarket.com/market/1473066",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 57,
@@ -1196,7 +1252,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473066",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473066"
+      "polymarket_url": "https://polymarket.com/market/1473066",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 58,
@@ -1217,7 +1274,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473066",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473066"
+      "polymarket_url": "https://polymarket.com/market/1473066",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 59,
@@ -1238,7 +1296,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473066",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473066"
+      "polymarket_url": "https://polymarket.com/market/1473066",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 60,
@@ -1259,7 +1318,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473068",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473068"
+      "polymarket_url": "https://polymarket.com/market/1473068",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 61,
@@ -1280,7 +1340,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473068",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473068"
+      "polymarket_url": "https://polymarket.com/market/1473068",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 62,
@@ -1301,7 +1362,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473069",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473069"
+      "polymarket_url": "https://polymarket.com/market/1473069",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 63,
@@ -1322,7 +1384,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473069",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473069"
+      "polymarket_url": "https://polymarket.com/market/1473069",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 64,
@@ -1343,7 +1406,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473072",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473072"
+      "polymarket_url": "https://polymarket.com/market/1473072",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 65,
@@ -1364,7 +1428,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473072",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473072"
+      "polymarket_url": "https://polymarket.com/market/1473072",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 66,
@@ -1385,7 +1450,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473074",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473074"
+      "polymarket_url": "https://polymarket.com/market/1473074",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 67,
@@ -1406,7 +1472,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473074",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473074"
+      "polymarket_url": "https://polymarket.com/market/1473074",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 68,
@@ -1427,7 +1494,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473074",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473074"
+      "polymarket_url": "https://polymarket.com/market/1473074",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 69,
@@ -1448,7 +1516,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473075",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473075"
+      "polymarket_url": "https://polymarket.com/market/1473075",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 70,
@@ -1469,7 +1538,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473075",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473075"
+      "polymarket_url": "https://polymarket.com/market/1473075",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 71,
@@ -1490,7 +1560,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473075",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473075"
+      "polymarket_url": "https://polymarket.com/market/1473075",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 72,
@@ -1511,7 +1582,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473078",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473078"
+      "polymarket_url": "https://polymarket.com/market/1473078",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 73,
@@ -1532,7 +1604,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473078",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473078"
+      "polymarket_url": "https://polymarket.com/market/1473078",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 74,
@@ -1553,7 +1626,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473078",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473078"
+      "polymarket_url": "https://polymarket.com/market/1473078",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 75,
@@ -1574,7 +1648,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473080",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473080"
+      "polymarket_url": "https://polymarket.com/market/1473080",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 76,
@@ -1595,7 +1670,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473080",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473080"
+      "polymarket_url": "https://polymarket.com/market/1473080",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 77,
@@ -1616,7 +1692,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473080",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473080"
+      "polymarket_url": "https://polymarket.com/market/1473080",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 78,
@@ -1637,7 +1714,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473080",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473080"
+      "polymarket_url": "https://polymarket.com/market/1473080",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 79,
@@ -1658,7 +1736,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473082",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473082"
+      "polymarket_url": "https://polymarket.com/market/1473082",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 80,
@@ -1679,7 +1758,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473082",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473082"
+      "polymarket_url": "https://polymarket.com/market/1473082",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 81,
@@ -1700,7 +1780,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473082",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473082"
+      "polymarket_url": "https://polymarket.com/market/1473082",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 82,
@@ -1721,7 +1802,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473082",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473082"
+      "polymarket_url": "https://polymarket.com/market/1473082",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 83,
@@ -1742,7 +1824,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473084",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473084"
+      "polymarket_url": "https://polymarket.com/market/1473084",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 84,
@@ -1763,7 +1846,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473084",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473084"
+      "polymarket_url": "https://polymarket.com/market/1473084",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 85,
@@ -1784,7 +1868,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473086",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473086"
+      "polymarket_url": "https://polymarket.com/market/1473086",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 86,
@@ -1805,7 +1890,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473086",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473086"
+      "polymarket_url": "https://polymarket.com/market/1473086",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 87,
@@ -1826,7 +1912,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473087",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473087"
+      "polymarket_url": "https://polymarket.com/market/1473087",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 88,
@@ -1847,7 +1934,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473087",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473087"
+      "polymarket_url": "https://polymarket.com/market/1473087",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 89,
@@ -1868,7 +1956,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473090",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473090"
+      "polymarket_url": "https://polymarket.com/market/1473090",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 90,
@@ -1889,7 +1978,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473090",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473090"
+      "polymarket_url": "https://polymarket.com/market/1473090",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 91,
@@ -1910,7 +2000,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568740",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568740"
+      "polymarket_url": "https://polymarket.com/market/1568740",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 92,
@@ -1931,7 +2022,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568740",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568740"
+      "polymarket_url": "https://polymarket.com/market/1568740",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 93,
@@ -1952,7 +2044,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568740",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568740"
+      "polymarket_url": "https://polymarket.com/market/1568740",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 94,
@@ -1973,7 +2066,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568740",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1568740"
+      "polymarket_url": "https://polymarket.com/market/1568740",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 95,
@@ -1994,7 +2088,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568743",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568743"
+      "polymarket_url": "https://polymarket.com/market/1568743",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 96,
@@ -2015,7 +2110,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568743",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568743"
+      "polymarket_url": "https://polymarket.com/market/1568743",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 97,
@@ -2036,7 +2132,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568743",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1568743"
+      "polymarket_url": "https://polymarket.com/market/1568743",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 98,
@@ -2057,7 +2154,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568743",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568743"
+      "polymarket_url": "https://polymarket.com/market/1568743",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 99,
@@ -2078,7 +2176,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568743",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1568743"
+      "polymarket_url": "https://polymarket.com/market/1568743",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 100,
@@ -2099,7 +2198,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568746",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568746"
+      "polymarket_url": "https://polymarket.com/market/1568746",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 101,
@@ -2120,7 +2220,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568746",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568746"
+      "polymarket_url": "https://polymarket.com/market/1568746",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 102,
@@ -2141,7 +2242,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568746",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568746"
+      "polymarket_url": "https://polymarket.com/market/1568746",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 103,
@@ -2162,7 +2264,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568756",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568756"
+      "polymarket_url": "https://polymarket.com/market/1568756",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 104,
@@ -2183,7 +2286,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568756",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568756"
+      "polymarket_url": "https://polymarket.com/market/1568756",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 105,
@@ -2204,7 +2308,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568756",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568756"
+      "polymarket_url": "https://polymarket.com/market/1568756",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 106,
@@ -2225,7 +2330,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568759",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568759"
+      "polymarket_url": "https://polymarket.com/market/1568759",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 107,
@@ -2246,7 +2352,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568759",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568759"
+      "polymarket_url": "https://polymarket.com/market/1568759",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 108,
@@ -2267,7 +2374,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568759",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568759"
+      "polymarket_url": "https://polymarket.com/market/1568759",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 109,
@@ -2288,7 +2396,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568762",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568762"
+      "polymarket_url": "https://polymarket.com/market/1568762",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 110,
@@ -2309,7 +2418,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568762",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568762"
+      "polymarket_url": "https://polymarket.com/market/1568762",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 111,
@@ -2330,7 +2440,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568762",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1568762"
+      "polymarket_url": "https://polymarket.com/market/1568762",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 112,
@@ -2351,7 +2462,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568765",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568765"
+      "polymarket_url": "https://polymarket.com/market/1568765",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 113,
@@ -2372,7 +2484,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568751",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568751"
+      "polymarket_url": "https://polymarket.com/market/1568751",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 114,
@@ -2393,7 +2506,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568751",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568751"
+      "polymarket_url": "https://polymarket.com/market/1568751",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 115,
@@ -2414,7 +2528,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568751",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1568751"
+      "polymarket_url": "https://polymarket.com/market/1568751",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 116,
@@ -2435,7 +2550,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568751",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568751"
+      "polymarket_url": "https://polymarket.com/market/1568751",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 117,
@@ -2456,7 +2572,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568768",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568768"
+      "polymarket_url": "https://polymarket.com/market/1568768",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 118,
@@ -2477,7 +2594,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568768",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1568768"
+      "polymarket_url": "https://polymarket.com/market/1568768",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 119,
@@ -2498,7 +2616,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568768",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1568768"
+      "polymarket_url": "https://polymarket.com/market/1568768",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 120,
@@ -2519,7 +2638,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568770",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568770"
+      "polymarket_url": "https://polymarket.com/market/1568770",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 121,
@@ -2540,7 +2660,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568771",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1568771"
+      "polymarket_url": "https://polymarket.com/market/1568771",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 122,
@@ -2561,7 +2682,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568771",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1568771"
+      "polymarket_url": "https://polymarket.com/market/1568771",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 123,
@@ -2582,7 +2704,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1568771",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1568771"
+      "polymarket_url": "https://polymarket.com/market/1568771",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 124,
@@ -2603,7 +2726,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576238",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576238"
+      "polymarket_url": "https://polymarket.com/market/1576238",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 125,
@@ -2624,7 +2748,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576238",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576238"
+      "polymarket_url": "https://polymarket.com/market/1576238",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 126,
@@ -2645,7 +2770,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576238",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576238"
+      "polymarket_url": "https://polymarket.com/market/1576238",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 127,
@@ -2666,7 +2792,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576239",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576239"
+      "polymarket_url": "https://polymarket.com/market/1576239",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 128,
@@ -2687,7 +2814,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576239",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576239"
+      "polymarket_url": "https://polymarket.com/market/1576239",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 129,
@@ -2708,7 +2836,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576240",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576240"
+      "polymarket_url": "https://polymarket.com/market/1576240",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 130,
@@ -2729,7 +2858,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576240",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576240"
+      "polymarket_url": "https://polymarket.com/market/1576240",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 131,
@@ -2750,7 +2880,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576242",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576242"
+      "polymarket_url": "https://polymarket.com/market/1576242",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 132,
@@ -2771,7 +2902,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576242",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576242"
+      "polymarket_url": "https://polymarket.com/market/1576242",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 133,
@@ -2792,7 +2924,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576242",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576242"
+      "polymarket_url": "https://polymarket.com/market/1576242",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 134,
@@ -2813,7 +2946,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576242",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1576242"
+      "polymarket_url": "https://polymarket.com/market/1576242",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 135,
@@ -2834,7 +2968,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576244",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576244"
+      "polymarket_url": "https://polymarket.com/market/1576244",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 136,
@@ -2855,7 +2990,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576244",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576244"
+      "polymarket_url": "https://polymarket.com/market/1576244",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 137,
@@ -2876,7 +3012,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576244",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576244"
+      "polymarket_url": "https://polymarket.com/market/1576244",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 138,
@@ -2897,7 +3034,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576244",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1576244"
+      "polymarket_url": "https://polymarket.com/market/1576244",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 139,
@@ -2918,7 +3056,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576246",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576246"
+      "polymarket_url": "https://polymarket.com/market/1576246",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 140,
@@ -2939,7 +3078,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576246",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576246"
+      "polymarket_url": "https://polymarket.com/market/1576246",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 141,
@@ -2960,7 +3100,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576246",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576246"
+      "polymarket_url": "https://polymarket.com/market/1576246",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 142,
@@ -2981,7 +3122,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576246",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1576246"
+      "polymarket_url": "https://polymarket.com/market/1576246",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 143,
@@ -3002,7 +3144,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576248",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576248"
+      "polymarket_url": "https://polymarket.com/market/1576248",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 144,
@@ -3023,7 +3166,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576248",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576248"
+      "polymarket_url": "https://polymarket.com/market/1576248",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 145,
@@ -3044,7 +3188,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576248",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1576248"
+      "polymarket_url": "https://polymarket.com/market/1576248",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 146,
@@ -3065,7 +3210,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576248",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576248"
+      "polymarket_url": "https://polymarket.com/market/1576248",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 147,
@@ -3086,7 +3232,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576250",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576250"
+      "polymarket_url": "https://polymarket.com/market/1576250",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 148,
@@ -3107,7 +3254,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576250",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576250"
+      "polymarket_url": "https://polymarket.com/market/1576250",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 149,
@@ -3128,7 +3276,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576252",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576252"
+      "polymarket_url": "https://polymarket.com/market/1576252",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 150,
@@ -3149,7 +3298,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576252",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576252"
+      "polymarket_url": "https://polymarket.com/market/1576252",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 151,
@@ -3170,7 +3320,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576252",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576252"
+      "polymarket_url": "https://polymarket.com/market/1576252",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 152,
@@ -3191,7 +3342,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576254",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576254"
+      "polymarket_url": "https://polymarket.com/market/1576254",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 153,
@@ -3212,7 +3364,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576254",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576254"
+      "polymarket_url": "https://polymarket.com/market/1576254",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 154,
@@ -3233,7 +3386,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576254",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576254"
+      "polymarket_url": "https://polymarket.com/market/1576254",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 155,
@@ -3254,7 +3408,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576256",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1576256"
+      "polymarket_url": "https://polymarket.com/market/1576256",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 156,
@@ -3275,7 +3430,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576256",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1576256"
+      "polymarket_url": "https://polymarket.com/market/1576256",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 157,
@@ -3296,7 +3452,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576256",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1576256"
+      "polymarket_url": "https://polymarket.com/market/1576256",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 158,
@@ -3317,7 +3474,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1576256",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1576256"
+      "polymarket_url": "https://polymarket.com/market/1576256",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 159,
@@ -3338,7 +3496,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473042",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473042"
+      "polymarket_url": "https://polymarket.com/market/1473042",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 160,
@@ -3359,7 +3518,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473042",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473042"
+      "polymarket_url": "https://polymarket.com/market/1473042",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 161,
@@ -3380,7 +3540,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473042",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473042"
+      "polymarket_url": "https://polymarket.com/market/1473042",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 162,
@@ -3401,7 +3562,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473046",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473046"
+      "polymarket_url": "https://polymarket.com/market/1473046",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 163,
@@ -3422,7 +3584,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473046",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473046"
+      "polymarket_url": "https://polymarket.com/market/1473046",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 164,
@@ -3443,7 +3606,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473046",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473046"
+      "polymarket_url": "https://polymarket.com/market/1473046",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 165,
@@ -3464,7 +3628,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473050",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473050"
+      "polymarket_url": "https://polymarket.com/market/1473050",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 166,
@@ -3485,7 +3650,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473050",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473050"
+      "polymarket_url": "https://polymarket.com/market/1473050",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 167,
@@ -3506,7 +3672,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473050",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473050"
+      "polymarket_url": "https://polymarket.com/market/1473050",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 168,
@@ -3527,7 +3694,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473056",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473056"
+      "polymarket_url": "https://polymarket.com/market/1473056",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 169,
@@ -3548,7 +3716,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473056",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473056"
+      "polymarket_url": "https://polymarket.com/market/1473056",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 170,
@@ -3569,7 +3738,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473059",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473059"
+      "polymarket_url": "https://polymarket.com/market/1473059",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 171,
@@ -3590,7 +3760,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473059",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473059"
+      "polymarket_url": "https://polymarket.com/market/1473059",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 172,
@@ -3611,7 +3782,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473062",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473062"
+      "polymarket_url": "https://polymarket.com/market/1473062",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 173,
@@ -3632,7 +3804,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473062",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473062"
+      "polymarket_url": "https://polymarket.com/market/1473062",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 174,
@@ -3653,7 +3826,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473065",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473065"
+      "polymarket_url": "https://polymarket.com/market/1473065",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 175,
@@ -3674,7 +3848,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473065",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473065"
+      "polymarket_url": "https://polymarket.com/market/1473065",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 176,
@@ -3695,7 +3870,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473065",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473065"
+      "polymarket_url": "https://polymarket.com/market/1473065",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 177,
@@ -3716,7 +3892,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473067",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473067"
+      "polymarket_url": "https://polymarket.com/market/1473067",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 178,
@@ -3737,7 +3914,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473067",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473067"
+      "polymarket_url": "https://polymarket.com/market/1473067",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 179,
@@ -3758,7 +3936,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473067",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473067"
+      "polymarket_url": "https://polymarket.com/market/1473067",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 180,
@@ -3779,7 +3958,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473067",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473067"
+      "polymarket_url": "https://polymarket.com/market/1473067",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 181,
@@ -3800,7 +3980,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473070",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473070"
+      "polymarket_url": "https://polymarket.com/market/1473070",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 182,
@@ -3821,7 +4002,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473070",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473070"
+      "polymarket_url": "https://polymarket.com/market/1473070",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 183,
@@ -3842,7 +4024,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473070",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473070"
+      "polymarket_url": "https://polymarket.com/market/1473070",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 184,
@@ -3863,7 +4046,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473071",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473071"
+      "polymarket_url": "https://polymarket.com/market/1473071",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 185,
@@ -3884,7 +4068,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473071",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473071"
+      "polymarket_url": "https://polymarket.com/market/1473071",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 186,
@@ -3905,7 +4090,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473071",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473071"
+      "polymarket_url": "https://polymarket.com/market/1473071",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 187,
@@ -3926,7 +4112,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473073",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473073"
+      "polymarket_url": "https://polymarket.com/market/1473073",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 188,
@@ -3947,7 +4134,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473073",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473073"
+      "polymarket_url": "https://polymarket.com/market/1473073",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 189,
@@ -3968,7 +4156,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473076",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473076"
+      "polymarket_url": "https://polymarket.com/market/1473076",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 190,
@@ -3989,7 +4178,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473077",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473077"
+      "polymarket_url": "https://polymarket.com/market/1473077",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 191,
@@ -4010,7 +4200,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473077",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473077"
+      "polymarket_url": "https://polymarket.com/market/1473077",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 192,
@@ -4031,7 +4222,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473079",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473079"
+      "polymarket_url": "https://polymarket.com/market/1473079",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 193,
@@ -4052,7 +4244,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473079",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473079"
+      "polymarket_url": "https://polymarket.com/market/1473079",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 194,
@@ -4073,7 +4266,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473081",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473081"
+      "polymarket_url": "https://polymarket.com/market/1473081",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 195,
@@ -4094,7 +4288,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473081",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473081"
+      "polymarket_url": "https://polymarket.com/market/1473081",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 196,
@@ -4115,7 +4310,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473081",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1473081"
+      "polymarket_url": "https://polymarket.com/market/1473081",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 197,
@@ -4136,7 +4332,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473083",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473083"
+      "polymarket_url": "https://polymarket.com/market/1473083",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 198,
@@ -4157,7 +4354,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473083",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473083"
+      "polymarket_url": "https://polymarket.com/market/1473083",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 199,
@@ -4178,7 +4376,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473085",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473085"
+      "polymarket_url": "https://polymarket.com/market/1473085",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 200,
@@ -4199,7 +4398,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473085",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473085"
+      "polymarket_url": "https://polymarket.com/market/1473085",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 201,
@@ -4220,7 +4420,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473085",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473085"
+      "polymarket_url": "https://polymarket.com/market/1473085",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 202,
@@ -4241,7 +4442,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473088",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473088"
+      "polymarket_url": "https://polymarket.com/market/1473088",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 203,
@@ -4262,7 +4464,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473088",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473088"
+      "polymarket_url": "https://polymarket.com/market/1473088",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 204,
@@ -4283,7 +4486,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473089",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473089"
+      "polymarket_url": "https://polymarket.com/market/1473089",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 205,
@@ -4304,7 +4508,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473089",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473089"
+      "polymarket_url": "https://polymarket.com/market/1473089",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 206,
@@ -4325,7 +4530,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473089",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1473089"
+      "polymarket_url": "https://polymarket.com/market/1473089",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 207,
@@ -4346,7 +4552,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473091",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1473091"
+      "polymarket_url": "https://polymarket.com/market/1473091",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 208,
@@ -4367,7 +4574,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473091",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1473091"
+      "polymarket_url": "https://polymarket.com/market/1473091",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 209,
@@ -4388,7 +4596,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1473091",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1473091"
+      "polymarket_url": "https://polymarket.com/market/1473091",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 210,
@@ -4409,7 +4618,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646500",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646500"
+      "polymarket_url": "https://polymarket.com/market/1646500",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 211,
@@ -4430,7 +4640,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646500",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646500"
+      "polymarket_url": "https://polymarket.com/market/1646500",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 212,
@@ -4451,7 +4662,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646506",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646506"
+      "polymarket_url": "https://polymarket.com/market/1646506",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 213,
@@ -4472,7 +4684,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646506",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646506"
+      "polymarket_url": "https://polymarket.com/market/1646506",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 214,
@@ -4493,7 +4706,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646506",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1646506"
+      "polymarket_url": "https://polymarket.com/market/1646506",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 215,
@@ -4514,7 +4728,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646506",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1646506"
+      "polymarket_url": "https://polymarket.com/market/1646506",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 216,
@@ -4535,7 +4750,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646496",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646496"
+      "polymarket_url": "https://polymarket.com/market/1646496",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 217,
@@ -4556,7 +4772,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646496",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646496"
+      "polymarket_url": "https://polymarket.com/market/1646496",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 218,
@@ -4577,7 +4794,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646496",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1646496"
+      "polymarket_url": "https://polymarket.com/market/1646496",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 219,
@@ -4598,7 +4816,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646497",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646497"
+      "polymarket_url": "https://polymarket.com/market/1646497",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 220,
@@ -4619,7 +4838,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646497",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646497"
+      "polymarket_url": "https://polymarket.com/market/1646497",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 221,
@@ -4640,7 +4860,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646498",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646498"
+      "polymarket_url": "https://polymarket.com/market/1646498",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 222,
@@ -4661,7 +4882,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646498",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646498"
+      "polymarket_url": "https://polymarket.com/market/1646498",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 223,
@@ -4682,7 +4904,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646498",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1646498"
+      "polymarket_url": "https://polymarket.com/market/1646498",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 224,
@@ -4703,7 +4926,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646499",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646499"
+      "polymarket_url": "https://polymarket.com/market/1646499",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 225,
@@ -4724,7 +4948,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646499",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646499"
+      "polymarket_url": "https://polymarket.com/market/1646499",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 226,
@@ -4745,7 +4970,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646502",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646502"
+      "polymarket_url": "https://polymarket.com/market/1646502",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 227,
@@ -4766,7 +4992,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646502",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646502"
+      "polymarket_url": "https://polymarket.com/market/1646502",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 228,
@@ -4787,7 +5014,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646503",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646503"
+      "polymarket_url": "https://polymarket.com/market/1646503",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 229,
@@ -4808,7 +5036,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646503",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646503"
+      "polymarket_url": "https://polymarket.com/market/1646503",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 230,
@@ -4829,7 +5058,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646504",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646504"
+      "polymarket_url": "https://polymarket.com/market/1646504",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 231,
@@ -4850,7 +5080,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646504",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646504"
+      "polymarket_url": "https://polymarket.com/market/1646504",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 232,
@@ -4871,7 +5102,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646504",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/1646504"
+      "polymarket_url": "https://polymarket.com/market/1646504",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 233,
@@ -4892,7 +5124,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646505",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646505"
+      "polymarket_url": "https://polymarket.com/market/1646505",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 234,
@@ -4913,7 +5146,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646505",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646505"
+      "polymarket_url": "https://polymarket.com/market/1646505",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 235,
@@ -4934,7 +5168,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646507",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646507"
+      "polymarket_url": "https://polymarket.com/market/1646507",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 236,
@@ -4955,7 +5190,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646507",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646507"
+      "polymarket_url": "https://polymarket.com/market/1646507",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 237,
@@ -4976,7 +5212,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646507",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1646507"
+      "polymarket_url": "https://polymarket.com/market/1646507",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 238,
@@ -4997,7 +5234,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646507",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1646507"
+      "polymarket_url": "https://polymarket.com/market/1646507",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 239,
@@ -5018,7 +5256,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646509",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646509"
+      "polymarket_url": "https://polymarket.com/market/1646509",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 240,
@@ -5039,7 +5278,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646510",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646510"
+      "polymarket_url": "https://polymarket.com/market/1646510",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 241,
@@ -5060,7 +5300,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646510",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646510"
+      "polymarket_url": "https://polymarket.com/market/1646510",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 242,
@@ -5081,7 +5322,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646510",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1646510"
+      "polymarket_url": "https://polymarket.com/market/1646510",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 243,
@@ -5102,7 +5344,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646511",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646511"
+      "polymarket_url": "https://polymarket.com/market/1646511",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 244,
@@ -5123,7 +5366,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646511",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646511"
+      "polymarket_url": "https://polymarket.com/market/1646511",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 245,
@@ -5144,7 +5388,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646512",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646512"
+      "polymarket_url": "https://polymarket.com/market/1646512",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 246,
@@ -5165,7 +5410,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646512",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1646512"
+      "polymarket_url": "https://polymarket.com/market/1646512",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 247,
@@ -5186,7 +5432,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1646495",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1646495"
+      "polymarket_url": "https://polymarket.com/market/1646495",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 248,
@@ -5207,7 +5454,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "763535",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/763535"
+      "polymarket_url": "https://polymarket.com/market/763535",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 249,
@@ -5228,7 +5476,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "763535",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/763535"
+      "polymarket_url": "https://polymarket.com/market/763535",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 250,
@@ -5249,7 +5498,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679709",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/679709"
+      "polymarket_url": "https://polymarket.com/market/679709",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 251,
@@ -5270,7 +5520,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679709",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/679709"
+      "polymarket_url": "https://polymarket.com/market/679709",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 252,
@@ -5291,7 +5542,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679711",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/679711"
+      "polymarket_url": "https://polymarket.com/market/679711",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 253,
@@ -5312,7 +5564,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679713",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/679713"
+      "polymarket_url": "https://polymarket.com/market/679713",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 254,
@@ -5333,7 +5586,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679713",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/679713"
+      "polymarket_url": "https://polymarket.com/market/679713",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 255,
@@ -5354,7 +5608,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679710",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/679710"
+      "polymarket_url": "https://polymarket.com/market/679710",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 256,
@@ -5375,7 +5630,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679710",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/679710"
+      "polymarket_url": "https://polymarket.com/market/679710",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 257,
@@ -5396,7 +5652,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679710",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/679710"
+      "polymarket_url": "https://polymarket.com/market/679710",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 258,
@@ -5417,7 +5674,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679712",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/679712"
+      "polymarket_url": "https://polymarket.com/market/679712",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 259,
@@ -5438,7 +5696,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679712",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/679712"
+      "polymarket_url": "https://polymarket.com/market/679712",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 260,
@@ -5459,7 +5718,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "679712",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/679712"
+      "polymarket_url": "https://polymarket.com/market/679712",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 261,
@@ -5480,7 +5740,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1340115",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1340115"
+      "polymarket_url": "https://polymarket.com/market/1340115",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 262,
@@ -5501,7 +5762,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534637",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1534637"
+      "polymarket_url": "https://polymarket.com/market/1534637",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 263,
@@ -5522,7 +5784,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534637",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1534637"
+      "polymarket_url": "https://polymarket.com/market/1534637",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 264,
@@ -5543,7 +5806,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534637",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1534637"
+      "polymarket_url": "https://polymarket.com/market/1534637",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 265,
@@ -5564,7 +5828,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534637",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1534637"
+      "polymarket_url": "https://polymarket.com/market/1534637",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 266,
@@ -5585,7 +5850,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534638",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1534638"
+      "polymarket_url": "https://polymarket.com/market/1534638",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 267,
@@ -5606,7 +5872,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534638",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/1534638"
+      "polymarket_url": "https://polymarket.com/market/1534638",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 268,
@@ -5627,7 +5894,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534638",
       "model": "market_structure_v1",
-      "polymarket_url": "https://polymarket.com/market/1534638"
+      "polymarket_url": "https://polymarket.com/market/1534638",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 269,
@@ -5648,7 +5916,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534966",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/1534966"
+      "polymarket_url": "https://polymarket.com/market/1534966",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 270,
@@ -5669,7 +5938,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "1534966",
       "model": "ema_crossover",
-      "polymarket_url": "https://polymarket.com/market/1534966"
+      "polymarket_url": "https://polymarket.com/market/1534966",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 271,
@@ -5690,7 +5960,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "666494",
       "model": "black_scholes_binary",
-      "polymarket_url": "https://polymarket.com/market/666494"
+      "polymarket_url": "https://polymarket.com/market/666494",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 272,
@@ -5711,7 +5982,8 @@ var positionsData = {
       "sym": ">",
       "market_id": "666494",
       "model": "perp_momentum",
-      "polymarket_url": "https://polymarket.com/market/666494"
+      "polymarket_url": "https://polymarket.com/market/666494",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     },
     {
       "#": 273,
@@ -5732,12 +6004,14 @@ var positionsData = {
       "sym": ">",
       "market_id": "666494",
       "model": "whale_tracking",
-      "polymarket_url": "https://polymarket.com/market/666494"
+      "polymarket_url": "https://polymarket.com/market/666494",
+      "exit_logic": "stop_loss: greater of 5% or 0.02, trailing_stop: 10%"
     }
   ],
   "status": "success",
-  "timestamp": "2026-03-20T10:06:06.387905",
+  "timestamp": "2026-03-20T11:28:17.399787",
   "data_source": "paper_trading_system",
-  "update_system": "automatic",
-  "builder_instruction": "Ok. Build it."
+  "builder_note": "Birdie Quest dashboard reads .json files",
+  "models": 6,
+  "total_size": 27300
 };
