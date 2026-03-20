@@ -1,27 +1,32 @@
 var healthData = {
   "status": "healthy",
-  "timestamp": "2026-03-20T13:32:55.159088",
+  "timestamp": "2026-03-20T17:36:08.993408",
   "systems": {
     "paper_trading": "running",
-    "data_pipeline": "active",
+    "data_pipeline": "simulated_realtime_active",
     "github_pages": "deployed",
     "model_processing": "real_outputs",
-    "data_quality": "genuine_no_fake"
+    "data_quality": "simulated_realtime_updates"
   },
   "metrics": {
-    "positions_count": 500,
-    "signals_count": 1210,
-    "update_interval": "5 minutes",
-    "last_update": "2026-03-20T13:32:55.159090",
+    "positions_count": 1210,
+    "signals_count": 1011,
+    "update_interval": "simulated_realtime",
+    "last_update": "2026-03-20T17:36:08.993413",
     "uptime": "100%",
     "models_active": 6,
-    "data_source": "real_model_processing",
-    "edge_threshold": "greater of 0.02 or 5%"
+    "data_source": "simulated_price_movement",
+    "edge_threshold": "greater of 0.02 or 5%",
+    "total_pnl": -322.95999999999975,
+    "positions_updated": 1210,
+    "update_success_rate": "100%",
+    "note": "Simulated prices - Real API integration pending"
   },
   "builder_notes": [
-    "No fake data - genuine model outputs",
+    "Simulated real-time Polymarket data updates",
+    "Current P&L calculated with simulated price movements",
+    "Fair Value: continuous probability (not binary 1/0)",
     "Edge threshold: greater of 0.02 or 5%",
-    "Quality markets: 0.15-0.95 probability",
-    "Realistic signal count: 1210 (not fake 1452)"
+    "NOTE: Using simulated prices - Real API ready for integration"
   ]
 };
