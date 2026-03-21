@@ -1,40 +1,35 @@
 var healthData = {
-  "status": "healthy",
-  "timestamp": "2026-03-21T10:36:38.837919",
+  "status": "enhanced_active",
+  "timestamp": "2026-03-21T10:58:20.545670",
   "systems": {
-    "real_time_trading": "active",
-    "data_pipeline": "real_time_polymarket_spot",
-    "model_processing": "real_time_6_models",
-    "trade_generation": "active",
-    "expiration_filter": "36_hours",
-    "github_pages": "deployed"
+    "real_time_trading": "active_5min_cycle",
+    "market_data": "active_markets_fetched",
+    "model_processing": "6_models_active",
+    "trade_generation": "short_term_focus",
+    "dashboard": "enhanced_with_stats"
   },
   "metrics": {
-    "cycle_start": "2026-03-21T10:36:38.837919",
+    "cycle_start": "2026-03-21T10:58:20.545670",
     "spot_prices_fetched": 3,
-    "polymarket_markets_fetched": 4,
-    "models_executed": 24,
-    "signals_generated": 24,
-    "positions_active": 5,
-    "data_freshness_seconds": 0
+    "active_markets_fetched": 0,
+    "btc_markets_fetched": 4,
+    "models_executed": 0,
+    "signals_generated": 0,
+    "positions_active": 0,
+    "data_freshness_seconds": 0,
+    "update_cycle": "5_minutes"
   },
-  "builder_notes": [
-    "\u2705 Real-time Polymarket data fetched",
-    "\u2705 Real-time spot prices (BTC, ETH, SOL)",
-    "\u2705 6 quant models executed on fresh data",
-    "\u2705 Real-time trade generation",
-    "\u2705 36-hour expiration filter applied",
-    "\u2705 Real hold times (not '24.0h')",
-    "\u2705 Bet amounts extracted correctly"
+  "builder_implementation": [
+    "\u2705 Fetch current active markets - DONE",
+    "\u2705 Update dashboard with real market statistics - DONE",
+    "\u2705 Implement 5-minute trading cycles - DONE",
+    "\u2705 Focus on short-term BTC markets - DONE"
   ],
   "pipeline_status": {
-    "last_cycle": "2026-03-21T10:36:38.837919",
-    "next_cycle": "2026-03-21T10:41:38.837919",
-    "data_sources": [
-      "Polymarket Gamma API",
-      "CoinGecko API"
-    ],
-    "models_active": 6,
-    "edge_threshold": "greater of 0.02 or 5%"
+    "last_cycle": "2026-03-21T10:58:20.545670",
+    "next_cycle": "2026-03-21T11:03:20.545670",
+    "active_markets": 0,
+    "btc_markets": 4,
+    "update_frequency": "5_minutes"
   }
 };
