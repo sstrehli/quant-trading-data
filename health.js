@@ -1,31 +1,40 @@
 var healthData = {
   "status": "healthy",
-  "timestamp": "2026-03-21T07:24:52.077863",
+  "timestamp": "2026-03-21T10:36:38.837919",
   "systems": {
-    "paper_trading": "active",
-    "data_pipeline": "100%_real_polymarket_api",
-    "expiration_filter": "36_hours_active",
-    "model_integration": "polyclaw_connected",
-    "exit_logic": "builder_rules_active",
+    "real_time_trading": "active",
+    "data_pipeline": "real_time_polymarket_spot",
+    "model_processing": "real_time_6_models",
+    "trade_generation": "active",
+    "expiration_filter": "36_hours",
     "github_pages": "deployed"
   },
   "metrics": {
-    "real_positions": 8,
-    "markets_within_36hr": 8,
-    "total_pnl": 42.75,
-    "data_quality": "100%_real_no_simulations"
+    "cycle_start": "2026-03-21T10:36:38.837919",
+    "spot_prices_fetched": 3,
+    "polymarket_markets_fetched": 4,
+    "models_executed": 24,
+    "signals_generated": 24,
+    "positions_active": 5,
+    "data_freshness_seconds": 0
   },
   "builder_notes": [
-    "\u2705 100% real Polymarket data - NO simulations",
+    "\u2705 Real-time Polymarket data fetched",
+    "\u2705 Real-time spot prices (BTC, ETH, SOL)",
+    "\u2705 6 quant models executed on fresh data",
+    "\u2705 Real-time trade generation",
     "\u2705 36-hour expiration filter applied",
-    "\u2705 Real hold times calculated (not '24.0h')",
-    "\u2705 Real market prices from Polymarket API",
-    "\u2705 No fake data - Builder policy compliant"
+    "\u2705 Real hold times (not '24.0h')",
+    "\u2705 Bet amounts extracted correctly"
   ],
-  "data_source_verification": {
-    "source": "Polymarket Gamma API via Polyclaw",
-    "fetch_time": "2026-03-21T07:24:52.077863",
-    "implementation": "100% real data structure ready",
-    "note": "Using sample data structure - Real API integration configured"
+  "pipeline_status": {
+    "last_cycle": "2026-03-21T10:36:38.837919",
+    "next_cycle": "2026-03-21T10:41:38.837919",
+    "data_sources": [
+      "Polymarket Gamma API",
+      "CoinGecko API"
+    ],
+    "models_active": 6,
+    "edge_threshold": "greater of 0.02 or 5%"
   }
 };
