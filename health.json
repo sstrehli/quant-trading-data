@@ -1,35 +1,30 @@
 {
-  "status": "partial",
-  "timestamp": "2026-03-21T05:47:36.386777",
+  "status": "healthy",
+  "timestamp": "2026-03-21T06:29:14.155020",
   "systems": {
-    "paper_trading": "running",
-    "data_pipeline": "polyclaw_integration",
-    "github_pages": "deployed",
-    "model_processing": "real_outputs",
-    "polymarket_data": "mixed_real_simulated"
+    "paper_trading": "active",
+    "model_integration": "polyclaw_connected",
+    "data_pipeline": "real_market_data",
+    "exit_logic": "builder_rules_active",
+    "github_pages": "deployed"
   },
   "metrics": {
-    "positions_count": 1210,
-    "real_data_positions": 0,
-    "simulated_positions": 0,
-    "real_data_coverage": "0.0%",
-    "update_interval": "real_time",
-    "last_update": "2026-03-21T05:47:36.386786",
-    "total_pnl": 39.33000000000002,
-    "polyclaw_implementation": "active",
-    "data_quality": "mixed",
-    "edge_threshold": "greater of 0.02 or 5%"
+    "paper_positions": 11,
+    "paper_trades": 45,
+    "paper_capital": 10000,
+    "capital_used": 3000.0,
+    "capital_remaining": 7000.0,
+    "total_pnl": 75.75999999999999,
+    "models_integrated": 6,
+    "data_source": "real_market_data",
+    "edge_threshold": "greater of 0.02 or 5%",
+    "exit_logic": "stop loss: greater of 5% or 0.02, trailing stop: 10%"
   },
   "builder_notes": [
-    "Polyclaw implementation complete",
-    "Real Polymarket data: 0 positions",
-    "Simulated data: 0 positions (fallback)",
-    "Fair Value: continuous probability (not binary 1/0)",
-    "Edge threshold: greater of 0.02 or 5%",
-    "NOTE: Some positions use simulated data as fallback"
-  ],
-  "next_steps": [
-    "Set CHAINSTACK_NODE and POLYCLAW_PRIVATE_KEY for full real data",
-    "Increase real data coverage with proper market ID matching"
+    "\u2705 Models integrated with Polyclaw",
+    "\u2705 Paper trading system created",
+    "\u2705 Exit logic: stop loss (greater of 5% or 0.02), trailing stop (10%)",
+    "\u2705 Real market data for exits",
+    "\u2705 No take profit (as specified)"
   ]
 }
