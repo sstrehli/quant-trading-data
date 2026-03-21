@@ -215,7 +215,7 @@
       "#": 9,
       "action": "BUY_YES",
       "asset": "BTC",
-      "bet": "Target",
+      "bet": "\u2195 $70,609",
       "cts": 150,
       "current": 0.7279,
       "entry": 0.695,
@@ -241,13 +241,15 @@
       "builder_market": true,
       "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800",
       "bet_fixed": true,
-      "bet_fix_time": "2026-03-21T12:11:08.649632"
+      "bet_fix_time": "2026-03-21T12:11:08.649632",
+      "bet_15min_fixed": true,
+      "bet_explanation": "15-minute BTC Up/Down movement from current price"
     },
     {
       "#": 10,
       "action": "BUY_NO",
       "asset": "BTC",
-      "bet": "Target",
+      "bet": "\u2195 $70,609",
       "cts": 150,
       "current": 0.308,
       "entry": 0.695,
@@ -273,13 +275,15 @@
       "builder_market": true,
       "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800",
       "bet_fixed": true,
-      "bet_fix_time": "2026-03-21T12:11:08.649645"
+      "bet_fix_time": "2026-03-21T12:11:08.649645",
+      "bet_15min_fixed": true,
+      "bet_explanation": "15-minute BTC Up/Down movement from current price"
     },
     {
       "#": 11,
       "action": "BUY_NO",
       "asset": "BTC",
-      "bet": "Target",
+      "bet": "\u2195 $70,609",
       "cts": 150,
       "current": 0.3173,
       "entry": 0.695,
@@ -305,13 +309,15 @@
       "builder_market": true,
       "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800",
       "bet_fixed": true,
-      "bet_fix_time": "2026-03-21T12:11:08.649648"
+      "bet_fix_time": "2026-03-21T12:11:08.649648",
+      "bet_15min_fixed": true,
+      "bet_explanation": "15-minute BTC Up/Down movement from current price"
     },
     {
       "#": 12,
       "action": "BUY_YES",
       "asset": "BTC",
-      "bet": "Target",
+      "bet": "\u2195 $70,609",
       "cts": 150,
       "current": 0.722,
       "entry": 0.695,
@@ -338,7 +344,9 @@
       "trading_type": "15min_btc",
       "last_15min_update": "2026-03-21T12:04:08.228056",
       "bet_fixed": true,
-      "bet_fix_time": "2026-03-21T12:11:08.649649"
+      "bet_fix_time": "2026-03-21T12:11:08.649649",
+      "bet_15min_fixed": true,
+      "bet_explanation": "15-minute BTC Up/Down movement from current price"
     }
   ],
   "status": "success",
@@ -426,5 +434,12 @@
     "fixes_applied": 4,
     "builder_request": "Bet field shows target price only",
     "fix_description": "Extracted $ amounts from questions, removed full text"
+  },
+  "15min_btc_bet_fixes": {
+    "applied_at": "2026-03-21T12:12:38.389401",
+    "fixes_applied": 4,
+    "fix_description": "15-minute BTC positions show current BTC price with movement symbol",
+    "bet_format": "\u2195 $70,609 (BTC current price \u00b1 movement)",
+    "builder_compliance": "Target price shown (current BTC price for 15-minute movements)"
   }
 }
