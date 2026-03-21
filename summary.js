@@ -1,4 +1,4 @@
-{
+var summaryData = {
   "total_pnl": 972.23,
   "win_rate_percent": 33.3,
   "active_positions": 11,
@@ -35,4 +35,4 @@
     "max_drawdown_percent": 2.5,
     "profit_factor": 1.8
   }
-}
+};
