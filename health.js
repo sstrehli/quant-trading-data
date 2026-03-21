@@ -1,32 +1,35 @@
 var healthData = {
-  "status": "healthy",
-  "timestamp": "2026-03-20T17:36:08.993408",
+  "status": "partial",
+  "timestamp": "2026-03-21T05:47:36.386777",
   "systems": {
     "paper_trading": "running",
-    "data_pipeline": "simulated_realtime_active",
+    "data_pipeline": "polyclaw_integration",
     "github_pages": "deployed",
     "model_processing": "real_outputs",
-    "data_quality": "simulated_realtime_updates"
+    "polymarket_data": "mixed_real_simulated"
   },
   "metrics": {
     "positions_count": 1210,
-    "signals_count": 1011,
-    "update_interval": "simulated_realtime",
-    "last_update": "2026-03-20T17:36:08.993413",
-    "uptime": "100%",
-    "models_active": 6,
-    "data_source": "simulated_price_movement",
-    "edge_threshold": "greater of 0.02 or 5%",
-    "total_pnl": -322.95999999999975,
-    "positions_updated": 1210,
-    "update_success_rate": "100%",
-    "note": "Simulated prices - Real API integration pending"
+    "real_data_positions": 0,
+    "simulated_positions": 0,
+    "real_data_coverage": "0.0%",
+    "update_interval": "real_time",
+    "last_update": "2026-03-21T05:47:36.386786",
+    "total_pnl": 39.33000000000002,
+    "polyclaw_implementation": "active",
+    "data_quality": "mixed",
+    "edge_threshold": "greater of 0.02 or 5%"
   },
   "builder_notes": [
-    "Simulated real-time Polymarket data updates",
-    "Current P&L calculated with simulated price movements",
+    "Polyclaw implementation complete",
+    "Real Polymarket data: 0 positions",
+    "Simulated data: 0 positions (fallback)",
     "Fair Value: continuous probability (not binary 1/0)",
     "Edge threshold: greater of 0.02 or 5%",
-    "NOTE: Using simulated prices - Real API ready for integration"
+    "NOTE: Some positions use simulated data as fallback"
+  ],
+  "next_steps": [
+    "Set CHAINSTACK_NODE and POLYCLAW_PRIVATE_KEY for full real data",
+    "Increase real data coverage with proper market ID matching"
   ]
 };
