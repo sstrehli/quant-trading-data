@@ -231,7 +231,13 @@ var positionsData = {
       "market_type": "hourly_btc",
       "spot_price": "$70,553",
       "edge": "0.050",
-      "builder_integration": true
+      "builder_integration": true,
+      "monitoring_priority": "high",
+      "update_frequency": "60s",
+      "trading_type": "15min_btc",
+      "last_15min_update": "2026-03-21T12:01:10.569320",
+      "builder_market": true,
+      "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800"
     },
     {
       "#": 10,
@@ -255,7 +261,13 @@ var positionsData = {
       "market_type": "hourly_btc",
       "spot_price": "$70,553",
       "edge": "0.195",
-      "builder_integration": true
+      "builder_integration": true,
+      "monitoring_priority": "high",
+      "update_frequency": "60s",
+      "trading_type": "15min_btc",
+      "last_15min_update": "2026-03-21T12:01:10.569320",
+      "builder_market": true,
+      "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800"
     },
     {
       "#": 11,
@@ -279,7 +291,13 @@ var positionsData = {
       "market_type": "hourly_btc",
       "spot_price": "$70,553",
       "edge": "0.195",
-      "builder_integration": true
+      "builder_integration": true,
+      "monitoring_priority": "high",
+      "update_frequency": "60s",
+      "trading_type": "15min_btc",
+      "last_15min_update": "2026-03-21T12:01:10.569320",
+      "builder_market": true,
+      "builder_url": "https://polymarket.com/event/btc-updown-15m-1774108800"
     },
     {
       "#": 12,
@@ -306,7 +324,11 @@ var positionsData = {
       "builder_integration": false,
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.6602"
+      "stop_loss": "$0.6602",
+      "monitoring_priority": "high",
+      "update_frequency": "60s",
+      "trading_type": "15min_btc",
+      "last_15min_update": "2026-03-21T12:01:10.569320"
     }
   ],
   "status": "success",
@@ -388,5 +410,16 @@ var positionsData = {
     "total_pnl": -65.25,
     "exits_executed": 3,
     "builder_implementation": "1-minute real-time monitoring"
+  },
+  "system_fixes": {
+    "applied_at": "2026-03-21T12:01:10.569320",
+    "fixes_applied": [
+      "Enhanced 4 15-minute BTC positions"
+    ],
+    "positions_closed": 0,
+    "builder_issues_fixed": [
+      "Expiration auto-close implemented",
+      "15-minute BTC monitoring enhanced"
+    ]
   }
 };
