@@ -1,5 +1,5 @@
 var tradesData = {
-  "count": 10,
+  "count": 13,
   "trades": [
     {
       "trade_id": "trade_0001",
@@ -190,8 +190,86 @@ var tradesData = {
       "market_id": "market_10",
       "polymarket_url": "https://polymarket.com/market/market_10",
       "reason": "paper_trading_sample"
+    },
+    {
+      "trade_id": "real_trade_0001",
+      "position_id": "pos_0001",
+      "asset": "BTC",
+      "bet": "Target",
+      "entry": 0.35,
+      "exit": 0.0,
+      "pnl": 0.0,
+      "pnl_percent": 0,
+      "action": "BUY_NO",
+      "strategy": "real_trading",
+      "entry_time": "2026-03-21T12:45:35.893455",
+      "exit_time": "",
+      "hold_time": "0h",
+      "size": 100,
+      "market_id": "",
+      "polymarket_url": "",
+      "reason": "stop_loss",
+      "real_trade": true,
+      "builder_system": true
+    },
+    {
+      "trade_id": "btc_15min_001",
+      "position_id": "pos_btc_15min_001",
+      "asset": "BTC",
+      "bet": "\u2195 $70,609",
+      "entry": 0.695,
+      "exit": 0.0,
+      "pnl": -69.5,
+      "pnl_percent": -69.5,
+      "action": "BUY_YES",
+      "strategy": "15min_btc",
+      "entry_time": "2026-03-21T11:02:37.966877",
+      "exit_time": "2026-03-21T11:29:30.214716",
+      "hold_time": "0.45h",
+      "size": 100,
+      "market_id": "1663096",
+      "polymarket_url": "https://polymarket.com/event/btc-updown-15m-1774108800",
+      "reason": "market_resolved",
+      "real_trade": true,
+      "builder_market": true,
+      "note": "Builder's BTC Up/Down 15-minute market"
+    },
+    {
+      "trade_id": "btc_15min_002",
+      "position_id": "pos_btc_15min_002",
+      "asset": "BTC",
+      "bet": "\u2195 $70,609",
+      "entry": 0.695,
+      "exit": 1.0,
+      "pnl": 30.5,
+      "pnl_percent": 30.5,
+      "action": "BUY_NO",
+      "strategy": "15min_btc",
+      "entry_time": "2026-03-21T11:02:37.966877",
+      "exit_time": "2026-03-21T11:29:30.214716",
+      "hold_time": "0.45h",
+      "size": 100,
+      "market_id": "1663096",
+      "polymarket_url": "https://polymarket.com/event/btc-updown-15m-1774108800",
+      "reason": "market_resolved",
+      "real_trade": true,
+      "builder_market": true,
+      "note": "Builder's BTC Up/Down 15-minute market"
     }
   ],
-  "status": "success",
-  "timestamp": "2026-03-20T11:28:17.403877"
+  "updated_at": "2026-03-21T12:45:35.893491",
+  "builder_system": true,
+  "data_sources": [
+    "trades.json (sample trades)",
+    "positions.json (closed trades)",
+    "real_trading_system (recent trades)"
+  ],
+  "stats": {
+    "total_trades": 13,
+    "real_trades": 3,
+    "sample_trades": 10,
+    "total_pnl": 911.0,
+    "btc_trades": 7,
+    "builder_markets": 2
+  }
 };
