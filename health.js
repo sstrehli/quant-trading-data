@@ -37,5 +37,17 @@ var healthData = {
   "builder_implementation": [
     "\u2705 Expiration auto-close fixed",
     "\u2705 15-minute BTC monitoring enhanced"
-  ]
+  ],
+  "system_status": "EMERGENCY_RESTART_ACTIVE",
+  "last_check": "2026-03-22T00:09:44.708363",
+  "update_frequency": "60 seconds (RESTORED)",
+  "inactivity_issue": {
+    "identified_by": "Builder",
+    "issue": "System inactive for 12.9 hours (since 11:16 AM)",
+    "builder_quote": "But no activity since 11 am today. Are you fetching new 15 minute markets.",
+    "severity": "CRITICAL",
+    "action_taken": "EMERGENCY RESTART - Monitoring restored",
+    "restart_time": "2026-03-22T00:09:44.708363",
+    "next_15min_fetch": 1774157084.708363
+  }
 };

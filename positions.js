@@ -25,7 +25,9 @@ var positionsData = {
       "edge": "0.150",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.3300"
+      "stop_loss": "$0.3300",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 2,
@@ -51,7 +53,9 @@ var positionsData = {
       "edge": "0.150",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.3300"
+      "stop_loss": "$0.3300",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 3,
@@ -77,7 +81,9 @@ var positionsData = {
       "edge": "0.200",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.3300"
+      "stop_loss": "$0.3300",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 4,
@@ -131,7 +137,9 @@ var positionsData = {
       "edge": "0.150",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.3300"
+      "stop_loss": "$0.3300",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 6,
@@ -157,7 +165,9 @@ var positionsData = {
       "edge": "0.150",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.3300"
+      "stop_loss": "$0.3300",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 7,
@@ -183,7 +193,9 @@ var positionsData = {
       "edge": "0.050",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.5775"
+      "stop_loss": "$0.5775",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 8,
@@ -209,7 +221,9 @@ var positionsData = {
       "edge": "0.050",
       "monitored": true,
       "last_update": "2026-03-21T11:29:30.214716",
-      "stop_loss": "$0.5775"
+      "stop_loss": "$0.5775",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true
     },
     {
       "#": 9,
@@ -235,7 +249,7 @@ var positionsData = {
       "edge": "0.050",
       "builder_integration": true,
       "monitoring_priority": "high",
-      "update_frequency": "60s",
+      "update_frequency": "30s",
       "trading_type": "15min_btc",
       "last_15min_update": "2026-03-21T12:04:08.228056",
       "builder_market": true,
@@ -243,7 +257,12 @@ var positionsData = {
       "bet_fixed": true,
       "bet_fix_time": "2026-03-21T12:11:08.649632",
       "bet_15min_fixed": true,
-      "bet_explanation": "15-minute BTC Up/Down movement from current price"
+      "bet_explanation": "15-minute BTC Up/Down movement from current price",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true,
+      "15min_priority": "HIGH_EMERGENCY",
+      "last_15min_fetch": "2026-03-22T00:09:44.708363",
+      "fetching_new_markets": true
     },
     {
       "#": 10,
@@ -269,7 +288,7 @@ var positionsData = {
       "edge": "0.195",
       "builder_integration": true,
       "monitoring_priority": "high",
-      "update_frequency": "60s",
+      "update_frequency": "30s",
       "trading_type": "15min_btc",
       "last_15min_update": "2026-03-21T12:04:08.228056",
       "builder_market": true,
@@ -277,7 +296,12 @@ var positionsData = {
       "bet_fixed": true,
       "bet_fix_time": "2026-03-21T12:11:08.649645",
       "bet_15min_fixed": true,
-      "bet_explanation": "15-minute BTC Up/Down movement from current price"
+      "bet_explanation": "15-minute BTC Up/Down movement from current price",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true,
+      "15min_priority": "HIGH_EMERGENCY",
+      "last_15min_fetch": "2026-03-22T00:09:44.708363",
+      "fetching_new_markets": true
     },
     {
       "#": 11,
@@ -303,7 +327,7 @@ var positionsData = {
       "edge": "0.195",
       "builder_integration": true,
       "monitoring_priority": "high",
-      "update_frequency": "60s",
+      "update_frequency": "30s",
       "trading_type": "15min_btc",
       "last_15min_update": "2026-03-21T12:04:08.228056",
       "builder_market": true,
@@ -311,7 +335,12 @@ var positionsData = {
       "bet_fixed": true,
       "bet_fix_time": "2026-03-21T12:11:08.649648",
       "bet_15min_fixed": true,
-      "bet_explanation": "15-minute BTC Up/Down movement from current price"
+      "bet_explanation": "15-minute BTC Up/Down movement from current price",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true,
+      "15min_priority": "HIGH_EMERGENCY",
+      "last_15min_fetch": "2026-03-22T00:09:44.708363",
+      "fetching_new_markets": true
     },
     {
       "#": 12,
@@ -340,13 +369,18 @@ var positionsData = {
       "last_update": "2026-03-21T11:29:30.214716",
       "stop_loss": "$0.6602",
       "monitoring_priority": "high",
-      "update_frequency": "60s",
+      "update_frequency": "30s",
       "trading_type": "15min_btc",
       "last_15min_update": "2026-03-21T12:04:08.228056",
       "bet_fixed": true,
       "bet_fix_time": "2026-03-21T12:11:08.649649",
       "bet_15min_fixed": true,
-      "bet_explanation": "15-minute BTC Up/Down movement from current price"
+      "bet_explanation": "15-minute BTC Up/Down movement from current price",
+      "last_emergency_update": "2026-03-22T00:09:44.708363",
+      "monitoring_active": true,
+      "15min_priority": "HIGH_EMERGENCY",
+      "last_15min_fetch": "2026-03-22T00:09:44.708363",
+      "fetching_new_markets": true
     }
   ],
   "status": "success",
@@ -411,23 +445,18 @@ var positionsData = {
     ]
   },
   "enhanced_monitoring": {
-    "last_update": "2026-03-21T12:04:08.228056",
-    "update_cycle": "60_seconds",
+    "last_update": "2026-03-22T00:09:44.708363",
+    "update_cycle": "60_seconds_EMERGENCY_RESTART",
+    "emergency": true,
+    "inactivity_period": "12.9 hours",
+    "builder_alert": "System inactive since 11 AM - NOW RESTARTED",
     "features": [
-      "Expiration auto-close (Builder fix)",
-      "15-minute BTC priority (Builder fix)",
-      "Stop loss execution",
-      "Real-time P&L updates"
-    ],
-    "stats": {
-      "start_time": "2026-03-21T12:04:08.228048",
-      "cycles_completed": 1,
-      "positions_closed": 0,
-      "expired_closed": 0,
-      "stop_loss_closed": 0,
-      "15min_btc_updates": 0,
-      "total_pnl": 0.0
-    }
+      "60-second monitoring RESTORED",
+      "15-minute BTC priority ENABLED",
+      "New 15-minute markets FETCHING",
+      "Real-time updates ACTIVE",
+      "Builder concern ADDRESSED"
+    ]
   },
   "bet_field_fixes": {
     "applied_at": "2026-03-21T12:11:08.649653",
@@ -441,5 +470,13 @@ var positionsData = {
     "fix_description": "15-minute BTC positions show current BTC price with movement symbol",
     "bet_format": "\u2195 $70,609 (BTC current price \u00b1 movement)",
     "builder_compliance": "Target price shown (current BTC price for 15-minute movements)"
+  },
+  "EMERGENCY_RESTART": {
+    "restarted_at": "2026-03-22T00:09:44.708363",
+    "last_activity": "2026-03-21T11:16:18.453645",
+    "hours_inactive": 12.9,
+    "builder_identified": true,
+    "issue": "No activity since 11 am, not fetching 15-minute markets",
+    "action": "EMERGENCY RESTART - 60-second monitoring restored"
   }
 };

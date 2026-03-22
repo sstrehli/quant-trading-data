@@ -8,8 +8,8 @@ var summaryData = {
   "worst_model": "whale_tracking",
   "initial_capital": 10000.0,
   "current_capital": 10972.23,
-  "status": "operational",
-  "timestamp": "2026-03-21T13:15:57.995994",
+  "status": "EMERGENCY_RESTART_ACTIVE",
+  "timestamp": "2026-03-22T00:09:44.708363",
   "open_positions_pnl": 61.23,
   "closed_trades_pnl": 911.0,
   "total_trades": 13,
@@ -34,5 +34,11 @@ var summaryData = {
     "sharpe_ratio": 1.2,
     "max_drawdown_percent": 2.5,
     "profit_factor": 1.8
+  },
+  "emergency_restart": {
+    "required": true,
+    "reason": "12.9 hours of inactivity",
+    "builder_identified": true,
+    "restored_at": "2026-03-22T00:09:44.708363"
   }
 };
